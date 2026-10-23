@@ -1,0 +1,6 @@
+.env
+storage/*.db*
+__pycache__/
+*.pyc
+docs/notices/*
+!docs/notices/.gitkeep

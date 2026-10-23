@@ -1,0 +1,36 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+dist/
+build/
+backend/storage/*
+!backend/storage/.gitkeep
+
+# Private college/student documents
+backend/docs/official/
+backend/source_docs/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Build artifacts and local storage
+node_modules/
+dist/
+build/
+backend/storage/*
+!backend/storage/.gitkeep
+
+backend/data/coord.json

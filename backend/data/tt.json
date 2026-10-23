@@ -1,0 +1,5411 @@
+{
+ "CS-3H": {
+  "slots": {
+   "Mon": [
+    {
+     "k": "MAI",
+     "t": "L",
+     "s": "Microprocessor and Interfacing",
+     "f": "Mr. Shrikant",
+     "r": "417"
+    },
+    {
+     "k": "ATAFL",
+     "t": "L",
+     "s": "Automata Theory and Formal Languages",
+     "f": "Mr. Tushar Giri",
+     "r": "416"
+    },
+    {
+     "k": "CG",
+     "t": "P",
+     "s": "Computer Graphics Lab",
+     "f": "Mr. Dheeraj Kumar Yadav",
+     "r": "602"
+    },
+    {
+     "k": "CG",
+     "t": "P",
+     "s": "Computer Graphics Lab",
+     "f": "Mr. Dheeraj Kumar Yadav",
+     "r": "602"
+    },
+    null,
+    {
+     "k": "EME",
+     "t": "L",
+     "s": "Engineering & Managerial Economics",
+     "f": "Dr. Richa",
+     "r": "416"
+    },
+    {
+     "k": "LIB"
+    },
+    {
+     "k": "CN",
+     "t": "L",
+     "s": "Computer Networks",
+     "f": "Ms. Preeti Srivastava",
+     "r": "414"
+    }
+   ],
+   "Tue": [
+    {
+     "k": "MAI",
+     "t": "L",
+     "s": "Microprocessor and Interfacing",
+     "f": "Mr. Shrikant",
+     "r": "417"
+    },
+    {
+     "k": "ATAFL",
+     "t": "L",
+     "s": "Automata Theory and Formal Languages",
+     "f": "Mr. Tushar Giri",
+     "r": "417"
+    },
+    {
+     "k": "EIKT",
+     "t": "L",
+     "s": "Essence of Indian Knowledge Tradition",
+     "f": "Dr. Syed Faraz Akhtar",
+     "r": "416"
+    },
+    {
+     "k": "CG",
+     "t": "L",
+     "s": "Computer Graphics",
+     "f": "Ms. Shailja Chaurasiya",
+     "r": "416"
+    },
+    null,
+    {
+     "k": "MP-I",
+     "t": "P",
+     "s": "Minor Project-I",
+     "f": "Mr. Yogendra Kumar Tripathi",
+     "r": "UGF012"
+    },
+    {
+     "k": "MP-I",
+     "t": "P",
+     "s": "Minor Project-I",
+     "f": "Mr. Yogendra Kumar Tripathi",
+     "r": "UGF012"
+    },
+    {
+     "k": "CN",
+     "t": "L",
+     "s": "Computer Networks",
+     "f": "Ms. Preeti Srivastava",
+     "r": "417"
+    }
+   ],
+   "Wed": [
+    {
+     "k": "CN",
+     "t": "P",
+     "s": "Computer Networks Lab",
+     "f": "Mr. Sonu Kushwaha",
+     "r": "602"
+    },
+    {
+     "k": "CN",
+     "t": "P",
+     "s": "Computer Networks Lab",
+     "f": "Mr. Sonu Kushwaha",
+     "r": "602"
+    },
+    {
+     "k": "CG",
+     "t": "L",
+     "s": "Computer Graphics",
+     "f": "Ms. Shailja Chaurasiya",
+     "r": "415"
+    },
+    {
+     "k": "MAI",
+     "t": "L",
+     "s": "Microprocessor and Interfacing",
+     "f": "Mr. Shrikant",
+     "r": "415"
+    },
+    null,
+    {
+     "k": "ATAFL",
+     "t": "L",
+     "s": "Automata Theory and Formal Languages",
+     "f": "Mr. Tushar Giri",
+     "r": "413"
+    },
+    {
+     "k": "EME",
+     "t": "L",
+     "s": "Engineering & Managerial Economics",
+     "f": "Dr. Richa",
+     "r": "413"
+    },
+    null
+   ],
+   "Thu": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "Fri": [
+    {
+     "k": "ATAFL",
+     "t": "L",
+     "s": "Automata Theory and Formal Languages",
+     "f": "Mr. Tushar Giri",
+     "r": "418"
+    },
+    {
+     "k": "CN",
+     "t": "L",
+     "s": "Computer Networks",
+     "f": "Ms. Preeti Srivastava",
+     "r": "418"
+    },
+    {
+     "k": "CG",
+     "t": "L",
+     "s": "Computer Graphics",
+     "f": "Ms. Shailja Chaurasiya",
+     "r": "413"
+    },
+    {
+     "k": "EME",
+     "t": "L",
+     "s": "Engineering & Managerial Economics",
+     "f": "Dr. Richa",
+     "r": "415"
+    },
+    null,
+    {
+     "k": "MAI",
+     "t": "L",
+     "s": "Microprocessor and Interfacing",
+     "f": "Mr. Shrikant",
+     "r": "415"
+    },
+    null,
+    null
+   ]
+  },
+  "courses": [
+   {
+    "code": "NHS4501",
+    "name": "Engineering & Managerial Economics",
+    "f": "Dr. Richa"
+   },
+   {
+    "code": "NCS4502",
+    "name": "Microprocessor and Interfacing",
+    "f": "Mr. Shrikant"
+   },
+   {
+    "code": "NCS4503",
+    "name": "Computer Networks",
+    "f": "Ms. Preeti Srivastava"
+   },
+   {
+    "code": "NCS4504",
+    "name": "Automata Theory and Formal Languages",
+    "f": "Mr. Tushar Giri"
+   },
+   {
+    "code": "NCS4505",
+    "name": "Computer Graphics",
+    "f": "Ms. Shailja Chaurasiya"
+   },
+   {
+    "code": "NVC4501",
+    "name": "Essence of Indian Knowledge Tradition",
+    "f": "Dr. Syed Faraz Akhtar"
+   },
+   {
+    "code": "NCS4555",
+    "name": "Computer Graphics Lab",
+    "f": "Mr. Dheeraj Kumar Yadav"
+   },
+   {
+    "code": "NCS4553",
+    "name": "Computer Networks Lab",
+    "f": "Mr. Sonu Kushwaha"
+   },
+   {
+    "code": "NCS4554",
+    "name": "Minor Project-I",
+    "f": "Mr. Yogendra Kumar Tripathi"
+   },
+   {
+    "code": "NGP4501",
+    "name": "General Proficiency",
+    "f": "Ms. Shailja Chaurasiya"
+   },
+   {
+    "code": "LIB",
+    "name": "Library",
+    "f": ""
+   }
+  ]
+ },
+ "CS-2A": {
+  "slots": {
+   "Mon": [
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure Using 'C'",
+     "f": "Ms. Anjali Nigam",
+     "r": "401"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Ms. Shiva Pandey",
+     "r": "401"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Ananlysis and Integral Transforms",
+     "f": "Dr. M.K.Mishra",
+     "r": "401"
+    },
+    {
+     "k": "CAJ",
+     "t": "L",
+     "s": "Core and Advance Java",
+     "f": "Ms Akanksha Singh",
+     "r": "401"
+    },
+    null,
+    {
+     "k": "LIB"
+    },
+    {
+     "k": "CAJ",
+     "t": "P",
+     "s": "Core and Advance Java Lab",
+     "f": "Ms Akanksha Singh",
+     "r": "Lab2"
+    },
+    {
+     "k": "CAJ",
+     "t": "P",
+     "s": "Core and Advance Java Lab",
+     "f": "Ms Akanksha Singh",
+     "r": "Lab2"
+    }
+   ],
+   "Tue": [
+    {
+     "k": "OB",
+     "t": "L",
+     "s": "Organizational Behaviour",
+     "f": "Dr. Anshubhi Bahadur",
+     "r": "401"
+    },
+    {
+     "k": "CAJ",
+     "t": "L",
+     "s": "Core and Advance Java",
+     "f": "Ms Akanksha Singh",
+     "r": "401"
+    },
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure Using 'C'",
+     "f": "Ms. Anjali Nigam",
+     "r": "401"
+    },
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Dr. Nitin Jain",
+     "r": "401"
+    },
+    null,
+    null,
+    null,
+    null
+   ],
+   "Wed": [
+    {
+     "k": "DSUC",
+     "t": "P",
+     "s": "Data Structure Lab",
+     "f": "Ms. Anjali Nigam",
+     "r": "Lab-4"
+    },
+    {
+     "k": "DSUC",
+     "t": "P",
+     "s": "Data Structure Lab",
+     "f": "Ms. Anjali Nigam",
+     "r": "Lab-4"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Ananlysis and Integral Transforms",
+     "f": "Dr. M.K.Mishra",
+     "r": "401"
+    },
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Dr. Nitin Jain",
+     "r": "401"
+    },
+    null,
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Ms. Shiva Pandey",
+     "r": "401"
+    },
+    {
+     "k": "IC",
+     "t": "L",
+     "s": "Indian Constitution",
+     "f": "Dr. Gunjan Srivastava",
+     "r": "401"
+    },
+    null
+   ],
+   "Thu": [
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Ms. Shiva Pandey",
+     "r": "401"
+    },
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Dr. Nitin Jain",
+     "r": "401"
+    },
+    {
+     "k": "CAJ",
+     "t": "L",
+     "s": "Core and Advance Java",
+     "f": "Ms Akanksha Singh",
+     "r": "401"
+    },
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure Using 'C'",
+     "f": "Ms. Anjali Nigam",
+     "r": "401"
+    },
+    null,
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Ananlysis and Integral Transforms",
+     "f": "Dr. M.K.Mishra",
+     "r": "401"
+    },
+    {
+     "k": "DLD",
+     "t": "P",
+     "s": "Digital Logic Design Lab",
+     "f": "Mr. Amit Kumar Singh",
+     "r": "LGF1"
+    },
+    {
+     "k": "DLD",
+     "t": "P",
+     "s": "Digital Logic Design Lab",
+     "f": "Mr. Amit Kumar Singh",
+     "r": "LGF1"
+    }
+   ],
+   "Fri": [
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure Using 'C'",
+     "f": "Ms. Anjali Nigam",
+     "r": "401"
+    },
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Dr. Nitin Jain",
+     "r": "401"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Ms. Shiva Pandey",
+     "r": "401"
+    },
+    {
+     "k": "CAJ",
+     "t": "L",
+     "s": "Core and Advance Java",
+     "f": "Ms Akanksha Singh",
+     "r": "401"
+    },
+    null,
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Ananlysis and Integral Transforms",
+     "f": "Dr. M.K.Mishra",
+     "r": "401"
+    },
+    {
+     "k": "OB",
+     "t": "L",
+     "s": "Organizational Behaviour",
+     "f": "Dr. Anshubhi Bahadur",
+     "r": "401"
+    },
+    null
+   ]
+  },
+  "courses": [
+   {
+    "code": "NHS4301",
+    "name": "Organizational Behaviour",
+    "f": "Dr. Anshubhi Bahadur"
+   },
+   {
+    "code": "NBS4301",
+    "name": "Computerlex Ananlysis and Integral Transforms",
+    "f": "Dr. M.K.Mishra"
+   },
+   {
+    "code": "NCS4301",
+    "name": "Discrete Mathematics",
+    "f": "Ms. Shiva Pandey"
+   },
+   {
+    "code": "NCS4302",
+    "name": "Data Structure Using 'C'",
+    "f": "Ms. Anjali Nigam"
+   },
+   {
+    "code": "NCS4303",
+    "name": "Digital Logic Design",
+    "f": "Dr. Nitin Jain"
+   },
+   {
+    "code": "NCS4304",
+    "name": "Core and Advance Java",
+    "f": "Ms Akanksha Singh"
+   },
+   {
+    "code": "NVC4301",
+    "name": "Indian Constitution",
+    "f": "Dr. Gunjan Srivastava"
+   },
+   {
+    "code": "NCS4352",
+    "name": "Data Structure Lab",
+    "f": "Ms. Anjali Nigam"
+   },
+   {
+    "code": "NCS4353",
+    "name": "Digital Logic Design Lab",
+    "f": "Mr. Amit Kumar Singh"
+   },
+   {
+    "code": "NCS4354",
+    "name": "Core and Advance Java Lab",
+    "f": "Ms Akanksha Singh"
+   },
+   {
+    "code": "NGP4301",
+    "name": "General Proficiency",
+    "f": "Mr. Sachin Bhardwaj"
+   },
+   {
+    "code": "LIB",
+    "name": "Library",
+    "f": ""
+   }
+  ]
+ },
+ "CS-2B": {
+  "slots": {
+   "Mon": [
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Ananlysis and Integral Transforms",
+     "f": "Dr Vibhawari Srivasatava",
+     "r": "402"
+    },
+    {
+     "k": "CAJ",
+     "t": "L",
+     "s": "Core and Advance Java",
+     "f": "Ms Akanksha Singh",
+     "r": "402"
+    },
+    {
+     "k": "OB",
+     "t": "L",
+     "s": "Organizational Behaviour",
+     "f": "Dr.Anshubhi Bahadur",
+     "r": "402"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Ms Shiva Pandey",
+     "r": "402"
+    },
+    null,
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Mr. Akhilesh Kumar Maurya",
+     "r": "402"
+    },
+    null,
+    null
+   ],
+   "Tue": [
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure Using 'C'",
+     "f": "Ms. Anjali Nigam",
+     "r": "402"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Ms Shiva Pandey",
+     "r": "402"
+    },
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Mr. Akhilesh Kumar Maurya",
+     "r": "402"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Ananlysis and Integral Transforms",
+     "f": "Dr Vibhawari Srivasatava",
+     "r": "402"
+    },
+    null,
+    {
+     "k": "DS",
+     "t": "P",
+     "s": "Data Structure Lab",
+     "f": "Ms. Anjali Nigam",
+     "r": "Lab2"
+    },
+    {
+     "k": "DS",
+     "t": "P",
+     "s": "Data Structure Lab",
+     "f": "Ms. Anjali Nigam",
+     "r": "Lab2"
+    },
+    {
+     "k": "CAJ",
+     "t": "L",
+     "s": "Core and Advance Java",
+     "f": "Ms Akanksha Singh",
+     "r": "402"
+    }
+   ],
+   "Wed": [
+    {
+     "k": "CAJ",
+     "t": "P",
+     "s": "Core and Advance Java Lab",
+     "f": "Ms Akanksha Singh",
+     "r": "Lab(602)"
+    },
+    {
+     "k": "CAJ",
+     "t": "P",
+     "s": "Core and Advance Java Lab",
+     "f": "Ms Akanksha Singh",
+     "r": "Lab(602)"
+    },
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure Using 'C'",
+     "f": "Ms. Anjali Nigam",
+     "r": "402"
+    },
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Mr. Akhilesh Kumar Maurya",
+     "r": "402"
+    },
+    null,
+    {
+     "k": "LIB"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Ananlysis and Integral Transforms",
+     "f": "Dr Vibhawari Srivasatava",
+     "r": "402"
+    },
+    {
+     "k": "IC",
+     "t": "L",
+     "s": "Indian Constitution",
+     "f": "Dr. Gunjan Srivastava",
+     "r": "402"
+    }
+   ],
+   "Thu": [
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Ananlysis and Integral Transforms",
+     "f": "Dr Vibhawari Srivasatava",
+     "r": "402"
+    },
+    {
+     "k": "CAJ",
+     "t": "L",
+     "s": "Core and Advance Java",
+     "f": "Ms Akanksha Singh",
+     "r": "402"
+    },
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure Using 'C'",
+     "f": "Ms. Anjali Nigam",
+     "r": "402"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Ms Shiva Pandey",
+     "r": "402"
+    },
+    null,
+    null,
+    null,
+    null
+   ],
+   "Fri": [
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Mr. Akhilesh Kumar Maurya",
+     "r": "402"
+    },
+    {
+     "k": "OB",
+     "t": "L",
+     "s": "Organizational Behaviour",
+     "f": "Dr.Anshubhi Bahadur",
+     "r": "402"
+    },
+    {
+     "k": "CAJ",
+     "t": "L",
+     "s": "Core and Advance Java",
+     "f": "Ms Akanksha Singh",
+     "r": "402"
+    },
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure Using 'C'",
+     "f": "Ms. Anjali Nigam",
+     "r": "402"
+    },
+    null,
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Ms Shiva Pandey",
+     "r": "402"
+    },
+    {
+     "k": "DLD",
+     "t": "P",
+     "s": "Digital Logic Design Lab",
+     "f": "Mr. Akhilesh Kumar Maurya",
+     "r": "LGF1"
+    },
+    {
+     "k": "DLD",
+     "t": "P",
+     "s": "Digital Logic Design Lab",
+     "f": "Mr. Akhilesh Kumar Maurya",
+     "r": "LGF1"
+    }
+   ]
+  },
+  "courses": [
+   {
+    "code": "NHS4301",
+    "name": "Organizational Behaviour",
+    "f": "Dr.Anshubhi Bahadur"
+   },
+   {
+    "code": "NBS4301",
+    "name": "Computerlex Ananlysis and Integral Transforms",
+    "f": "Dr Vibhawari Srivasatava"
+   },
+   {
+    "code": "NCS4301",
+    "name": "Discrete Mathematics",
+    "f": "Ms Shiva Pandey"
+   },
+   {
+    "code": "NCS4302",
+    "name": "Data Structure Using 'C'",
+    "f": "Ms. Anjali Nigam"
+   },
+   {
+    "code": "NCS4303",
+    "name": "Digital Logic Design",
+    "f": "Mr. Akhilesh Kumar Maurya"
+   },
+   {
+    "code": "NCS4304",
+    "name": "Core and Advance Java",
+    "f": "Ms Akanksha Singh"
+   },
+   {
+    "code": "NVC4301",
+    "name": "Indian Constitution",
+    "f": "Dr. Gunjan Srivastava"
+   },
+   {
+    "code": "NCS4352",
+    "name": "Data Structure Lab",
+    "f": "Ms. Anjali Nigam"
+   },
+   {
+    "code": "NCS4353",
+    "name": "Digital Logic Design Lab",
+    "f": "Mr. Akhilesh Kumar Maurya"
+   },
+   {
+    "code": "NCS4354",
+    "name": "Core and Advance Java Lab",
+    "f": "Ms Akanksha Singh"
+   },
+   {
+    "code": "NGP4301",
+    "name": "General Proficiency",
+    "f": "Ms. Surabhi Mishra"
+   },
+   {
+    "code": "LIB",
+    "name": "Library",
+    "f": ""
+   }
+  ]
+ },
+ "CS-2C": {
+  "slots": {
+   "Mon": [
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure Using 'C'",
+     "f": "Ms. Pooja Tiwari",
+     "r": "403"
+    },
+    {
+     "k": "CAJ",
+     "t": "L",
+     "s": "Core and Advance Java",
+     "f": "Mr. Gaurav Kumar Srivastava",
+     "r": "403"
+    },
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Mr. Akhilesh Kumar Maurya",
+     "r": "403"
+    },
+    {
+     "k": "OB",
+     "t": "L",
+     "s": "Organizational Behaviour",
+     "f": "Dr. Anshubhi Bahadur",
+     "r": "403"
+    },
+    null,
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Ms. Shiva Pandey",
+     "r": "403"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Ananlysis and Integral Transforms",
+     "f": "Dr. Kashika Srivastava",
+     "r": "403"
+    },
+    null
+   ],
+   "Tue": [
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Ms. Shiva Pandey",
+     "r": "403"
+    },
+    {
+     "k": "CAJ",
+     "t": "L",
+     "s": "Core and Advance Java",
+     "f": "Mr. Gaurav Kumar Srivastava",
+     "r": "403"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Ananlysis and Integral Transforms",
+     "f": "Dr. Kashika Srivastava",
+     "r": "403"
+    },
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Mr. Akhilesh Kumar Maurya",
+     "r": "403"
+    },
+    null,
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure Using 'C'",
+     "f": "Ms. Pooja Tiwari",
+     "r": "403"
+    },
+    {
+     "k": "DLD",
+     "t": "P",
+     "s": "Digital Logic Design Lab",
+     "f": "Mr. Akhilesh Kumar Maurya",
+     "r": "LGF1"
+    },
+    {
+     "k": "DLD",
+     "t": "P",
+     "s": "Digital Logic Design Lab",
+     "f": "Mr. Akhilesh Kumar Maurya",
+     "r": "LGF1"
+    }
+   ],
+   "Wed": [
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Ananlysis and Integral Transforms",
+     "f": "Dr. Kashika Srivastava",
+     "r": "403"
+    },
+    {
+     "k": "OB",
+     "t": "L",
+     "s": "Organizational Behaviour",
+     "f": "Dr. Anshubhi Bahadur",
+     "r": "403"
+    },
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Mr. Akhilesh Kumar Maurya",
+     "r": "403"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Ms. Shiva Pandey",
+     "r": "403"
+    },
+    null,
+    {
+     "k": "CAJ",
+     "t": "P",
+     "s": "Core and Advance Java Lab",
+     "f": "Mr. Gaurav Kumar Srivastava",
+     "r": "LAB2"
+    },
+    {
+     "k": "CAJ",
+     "t": "P",
+     "s": "Core and Advance Java Lab",
+     "f": "Mr. Gaurav Kumar Srivastava",
+     "r": "LAB2"
+    },
+    {
+     "k": "CAJ",
+     "t": "L",
+     "s": "Core and Advance Java",
+     "f": "Mr. Gaurav Kumar Srivastava",
+     "r": "403"
+    }
+   ],
+   "Thu": [
+    {
+     "k": "DS",
+     "t": "P",
+     "s": "Data Structure Lab",
+     "f": "Ms. Pooja Tiwari",
+     "r": "LAB3"
+    },
+    {
+     "k": "DS",
+     "t": "P",
+     "s": "Data Structure Lab",
+     "f": "Ms. Pooja Tiwari",
+     "r": "LAB3"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Ananlysis and Integral Transforms",
+     "f": "Dr. Kashika Srivastava",
+     "r": "403"
+    },
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure Using 'C'",
+     "f": "Ms. Pooja Tiwari",
+     "r": "403"
+    },
+    null,
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Mr. Akhilesh Kumar Maurya",
+     "r": "403"
+    },
+    {
+     "k": "LIB"
+    },
+    null
+   ],
+   "Fri": [
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Ms. Shiva Pandey",
+     "r": "403"
+    },
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure Using 'C'",
+     "f": "Ms. Pooja Tiwari",
+     "r": "403"
+    },
+    {
+     "k": "CAJ",
+     "t": "L",
+     "s": "Core and Advance Java",
+     "f": "Mr. Gaurav Kumar Srivastava",
+     "r": "403"
+    },
+    {
+     "k": "IC",
+     "t": "L",
+     "s": "Indian Constitution",
+     "f": "Dr. Gunjan Srivastava",
+     "r": "403"
+    },
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  "courses": [
+   {
+    "code": "NHS4301",
+    "name": "Organizational Behaviour",
+    "f": "Dr. Anshubhi Bahadur"
+   },
+   {
+    "code": "NBS4301",
+    "name": "Computerlex Ananlysis and Integral Transforms",
+    "f": "Dr. Kashika Srivastava"
+   },
+   {
+    "code": "NCS4301",
+    "name": "Discrete Mathematics",
+    "f": "Ms. Shiva Pandey"
+   },
+   {
+    "code": "NCS4302",
+    "name": "Data Structure Using 'C'",
+    "f": "Ms. Pooja Tiwari"
+   },
+   {
+    "code": "NCS4303",
+    "name": "Digital Logic Design",
+    "f": "Mr. Akhilesh Kumar Maurya"
+   },
+   {
+    "code": "NCS4304",
+    "name": "Core and Advance Java",
+    "f": "Mr. Gaurav Kumar Srivastava"
+   },
+   {
+    "code": "NVC4301",
+    "name": "Indian Constitution",
+    "f": "Dr. Gunjan Srivastava"
+   },
+   {
+    "code": "NCS4352",
+    "name": "Data Structure Lab",
+    "f": "Ms. Pooja Tiwari"
+   },
+   {
+    "code": "NCS4353",
+    "name": "Digital Logic Design Lab",
+    "f": "Mr. Akhilesh Kumar Maurya"
+   },
+   {
+    "code": "NCS4354",
+    "name": "Core and Advance Java Lab",
+    "f": "Mr. Gaurav Kumar Srivastava"
+   },
+   {
+    "code": "NGP4301",
+    "name": "General Proficiency",
+    "f": "Ms. Ritu Dwivedi"
+   },
+   {
+    "code": "LIB",
+    "name": "Library",
+    "f": ""
+   }
+  ]
+ },
+ "CS-2D": {
+  "slots": {
+   "Mon": [
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Mr. Akhilesh Kumar Maurya",
+     "r": "405"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Ananlysis and Integral Transforms",
+     "f": "Dr. Kashika Srivastava",
+     "r": "405"
+    },
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure Using 'C'",
+     "f": "Dr. Suman Sharma",
+     "r": "405"
+    },
+    {
+     "k": "CAJ",
+     "t": "L",
+     "s": "Core and Advance Java",
+     "f": "Mr. Gaurav Kumar Srivastava",
+     "r": "405"
+    },
+    null,
+    {
+     "k": "DS",
+     "t": "P",
+     "s": "Data Structure Lab",
+     "f": "Dr. Suman Sharma",
+     "r": "LAB-3"
+    },
+    {
+     "k": "DS",
+     "t": "P",
+     "s": "Data Structure Lab",
+     "f": "Dr. Suman Sharma",
+     "r": "LAB-3"
+    },
+    {
+     "k": "DS",
+     "t": "P",
+     "s": "Data Structure Lab",
+     "f": "Dr. Suman Sharma",
+     "r": "LAB-3"
+    }
+   ],
+   "Tue": [
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Mr. Akhilesh Kumar Maurya",
+     "r": "405"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Ms. Shraddha Tiwari",
+     "r": "405"
+    },
+    {
+     "k": "CAJ",
+     "t": "P",
+     "s": "Core and Advance Java Lab",
+     "f": "Mr. Gaurav Kumar Srivastava",
+     "r": "LAB-3"
+    },
+    {
+     "k": "CAJ",
+     "t": "P",
+     "s": "Core and Advance Java Lab",
+     "f": "Mr. Gaurav Kumar Srivastava",
+     "r": "LAB-3"
+    },
+    null,
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Ananlysis and Integral Transforms",
+     "f": "Dr. Kashika Srivastava",
+     "r": "405"
+    },
+    {
+     "k": "LIB"
+    },
+    null
+   ],
+   "Wed": [
+    {
+     "k": "IC",
+     "t": "L",
+     "s": "Indian Constitution",
+     "f": "Dr. Gunjan Srivastava",
+     "r": "405"
+    },
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Mr. Akhilesh Kumar Maurya",
+     "r": "405"
+    },
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure Using 'C'",
+     "f": "Dr. Suman Sharma",
+     "r": "405"
+    },
+    {
+     "k": "CAJ",
+     "t": "L",
+     "s": "Core and Advance Java",
+     "f": "Mr. Gaurav Kumar Srivastava",
+     "r": "405"
+    },
+    null,
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Ms. Shraddha Tiwari",
+     "r": "405"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Ananlysis and Integral Transforms",
+     "f": "Dr. Kashika Srivastava",
+     "r": "405"
+    },
+    null
+   ],
+   "Thu": [
+    {
+     "k": "OB",
+     "t": "L",
+     "s": "Organizational Behaviour",
+     "f": "Dr. Anshubhi Bahadur",
+     "r": "405"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Ananlysis and Integral Transforms",
+     "f": "Dr. Kashika Srivastava",
+     "r": "405"
+    },
+    {
+     "k": "CAJ",
+     "t": "L",
+     "s": "Core and Advance Java",
+     "f": "Mr. Gaurav Kumar Srivastava",
+     "r": "405"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Ms. Shraddha Tiwari",
+     "r": "405"
+    },
+    null,
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure Using 'C'",
+     "f": "Dr. Suman Sharma",
+     "r": "405"
+    },
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Mr. Akhilesh Kumar Maurya",
+     "r": "405"
+    },
+    null
+   ],
+   "Fri": [
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Ms. Shraddha Tiwari",
+     "r": "405"
+    },
+    {
+     "k": "CAJ",
+     "t": "L",
+     "s": "Core and Advance Java",
+     "f": "Mr. Gaurav Kumar Srivastava",
+     "r": "405"
+    },
+    {
+     "k": "DLD",
+     "t": "P",
+     "s": "Digital Logic Design Lab",
+     "f": "Mr. Akhilesh Kumar Maurya",
+     "r": "LGF1"
+    },
+    {
+     "k": "DLD",
+     "t": "P",
+     "s": "Digital Logic Design Lab",
+     "f": "Mr. Akhilesh Kumar Maurya",
+     "r": "LGF1"
+    },
+    null,
+    {
+     "k": "OB",
+     "t": "L",
+     "s": "Organizational Behaviour",
+     "f": "Dr. Anshubhi Bahadur",
+     "r": "405"
+    },
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure Using 'C'",
+     "f": "Dr. Suman Sharma",
+     "r": "405"
+    },
+    null
+   ]
+  },
+  "courses": [
+   {
+    "code": "NHS4301",
+    "name": "Organizational Behaviour",
+    "f": "Dr. Anshubhi Bahadur"
+   },
+   {
+    "code": "NBS4301",
+    "name": "Computerlex Ananlysis and Integral Transforms",
+    "f": "Dr. Kashika Srivastava"
+   },
+   {
+    "code": "NCS4301",
+    "name": "Discrete Mathematics",
+    "f": "Ms. Shraddha Tiwari"
+   },
+   {
+    "code": "NCS4302",
+    "name": "Data Structure Using 'C'",
+    "f": "Dr. Suman Sharma"
+   },
+   {
+    "code": "NCS4303",
+    "name": "Digital Logic Design",
+    "f": "Mr. Akhilesh Kumar Maurya"
+   },
+   {
+    "code": "NCS4304",
+    "name": "Core and Advance Java",
+    "f": "Mr. Gaurav Kumar Srivastava"
+   },
+   {
+    "code": "NVC4301",
+    "name": "Indian Constitution",
+    "f": "Dr. Gunjan Srivastava"
+   },
+   {
+    "code": "NCS4352",
+    "name": "Data Structure Lab",
+    "f": "Dr. Suman Sharma"
+   },
+   {
+    "code": "NCS4353",
+    "name": "Digital Logic Design Lab",
+    "f": "Mr. Akhilesh Kumar Maurya"
+   },
+   {
+    "code": "NCS4354",
+    "name": "Core and Advance Java Lab",
+    "f": "Mr. Gaurav Kumar Srivastava"
+   },
+   {
+    "code": "NGP4301",
+    "name": "General Proficiency",
+    "f": "Ms. Yadav Pratima Kedarnath"
+   },
+   {
+    "code": "LIB",
+    "name": "Library",
+    "f": ""
+   }
+  ]
+ },
+ "CS-2E": {
+  "slots": {
+   "Mon": [
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Ms. Shraddha Tiwari",
+     "r": "406"
+    },
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure Using 'C'",
+     "f": "Ms. Revathi L",
+     "r": "406"
+    },
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Mr. Ashawani Kumar",
+     "r": "406"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Ananlysis and Integral Transforms",
+     "f": "Mr. Prashant Kr. Shukla",
+     "r": "406"
+    },
+    null,
+    {
+     "k": "IC",
+     "t": "L",
+     "s": "Indian Constitution",
+     "f": "Dr. Gunjan Srivastava",
+     "r": "406"
+    },
+    {
+     "k": "CAJ",
+     "t": "L",
+     "s": "Core and Advance Java",
+     "f": "Mr. Gaurav Kumar Srivastava",
+     "r": "406"
+    },
+    null
+   ],
+   "Tue": [
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Ananlysis and Integral Transforms",
+     "f": "Mr. Prashant Kr. Shukla",
+     "r": "406"
+    },
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure Using 'C'",
+     "f": "Ms. Revathi L",
+     "r": "406"
+    },
+    {
+     "k": "LIB"
+    },
+    {
+     "k": "OB",
+     "t": "L",
+     "s": "Organizational Behaviour",
+     "f": "Dr. Anshubhi Bahadur",
+     "r": "406"
+    },
+    null,
+    {
+     "k": "CAJ",
+     "t": "L",
+     "s": "Core and Advance Java",
+     "f": "Mr. Gaurav Kumar Srivastava",
+     "r": "406"
+    },
+    {
+     "k": "CAJ",
+     "t": "P",
+     "s": "Core and Advance Java Lab",
+     "f": "Mr. Gaurav Kumar Srivastava",
+     "r": "LAB-3"
+    },
+    {
+     "k": "CAJ",
+     "t": "P",
+     "s": "Core and Advance Java Lab",
+     "f": "Mr. Gaurav Kumar Srivastava",
+     "r": "LAB-3"
+    }
+   ],
+   "Wed": [
+    {
+     "k": "DS",
+     "t": "P",
+     "s": "Data Structure Lab",
+     "f": "Ms. Revathi L",
+     "r": "LAB-3"
+    },
+    {
+     "k": "DS",
+     "t": "P",
+     "s": "Data Structure Lab",
+     "f": "Ms. Revathi L",
+     "r": "LAB-3"
+    },
+    {
+     "k": "CAJ",
+     "t": "L",
+     "s": "Core and Advance Java",
+     "f": "Mr. Gaurav Kumar Srivastava",
+     "r": "406"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Ms. Shraddha Tiwari",
+     "r": "406"
+    },
+    null,
+    {
+     "k": "OB",
+     "t": "L",
+     "s": "Organizational Behaviour",
+     "f": "Dr. Anshubhi Bahadur",
+     "r": "406"
+    },
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Mr. Ashawani Kumar",
+     "r": "406"
+    },
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure Using 'C'",
+     "f": "Ms. Revathi L",
+     "r": "406"
+    }
+   ],
+   "Thu": [
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Ananlysis and Integral Transforms",
+     "f": "Mr. Prashant Kr. Shukla",
+     "r": "406"
+    },
+    {
+     "k": "CAJ",
+     "t": "L",
+     "s": "Core and Advance Java",
+     "f": "Mr. Gaurav Kumar Srivastava",
+     "r": "406"
+    },
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Mr. Ashawani Kumar",
+     "r": "406"
+    },
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure Using 'C'",
+     "f": "Ms. Revathi L",
+     "r": "406"
+    },
+    null,
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Ms. Shraddha Tiwari",
+     "r": "406"
+    },
+    null,
+    null
+   ],
+   "Fri": [
+    {
+     "k": "DLD",
+     "t": "P",
+     "s": "Digital Logic Design Lab",
+     "f": "Mr. Ashawani Kumar",
+     "r": "LGF1"
+    },
+    {
+     "k": "DLD",
+     "t": "P",
+     "s": "Digital Logic Design Lab",
+     "f": "Mr. Ashawani Kumar",
+     "r": "LGF1"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Ananlysis and Integral Transforms",
+     "f": "Mr. Prashant Kr. Shukla",
+     "r": "406"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Ms. Shraddha Tiwari",
+     "r": "406"
+    },
+    null,
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Mr. Ashawani Kumar",
+     "r": "406"
+    },
+    null,
+    null
+   ]
+  },
+  "courses": [
+   {
+    "code": "NHS4301",
+    "name": "Organizational Behaviour",
+    "f": "Dr. Anshubhi Bahadur"
+   },
+   {
+    "code": "NBS4301",
+    "name": "Computerlex Ananlysis and Integral Transforms",
+    "f": "Mr. Prashant Kr. Shukla"
+   },
+   {
+    "code": "NCS4301",
+    "name": "Discrete Mathematics",
+    "f": "Ms. Shraddha Tiwari"
+   },
+   {
+    "code": "NCS4302",
+    "name": "Data Structure Using 'C'",
+    "f": "Ms. Revathi L"
+   },
+   {
+    "code": "NCS4303",
+    "name": "Digital Logic Design",
+    "f": "Mr. Ashawani Kumar"
+   },
+   {
+    "code": "NCS4304",
+    "name": "Core and Advance Java",
+    "f": "Mr. Gaurav Kumar Srivastava"
+   },
+   {
+    "code": "NVC4301",
+    "name": "Indian Constitution",
+    "f": "Dr. Gunjan Srivastava"
+   },
+   {
+    "code": "NCS4352",
+    "name": "Data Structure Lab",
+    "f": "Ms. Revathi L"
+   },
+   {
+    "code": "NCS4353",
+    "name": "Digital Logic Design Lab",
+    "f": "Mr. Ashawani Kumar"
+   },
+   {
+    "code": "NCS4354",
+    "name": "Core and Advance Java Lab",
+    "f": "Mr. Gaurav Kumar Srivastava"
+   },
+   {
+    "code": "NGP4301",
+    "name": "General Proficiency",
+    "f": "Ms. Revathi L"
+   },
+   {
+    "code": "LIB",
+    "name": "Library",
+    "f": ""
+   }
+  ]
+ },
+ "CS-2F": {
+  "slots": {
+   "Mon": [
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure Using 'C'",
+     "f": "Mr. Abhishek Sharma",
+     "r": "407"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Ms. Deepti Razdan",
+     "r": "407"
+    },
+    {
+     "k": "DS",
+     "t": "P",
+     "s": "Data Structure Lab",
+     "f": "Mr. Abhishek Sharma",
+     "r": "LAB-2"
+    },
+    {
+     "k": "DS",
+     "t": "P",
+     "s": "Data Structure Lab",
+     "f": "Mr. Abhishek Sharma",
+     "r": "LAB-2"
+    },
+    null,
+    {
+     "k": "CAJ",
+     "t": "L",
+     "s": "Core and Advance Java",
+     "f": "Mr. Avinash Pandey",
+     "r": "407"
+    },
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Mr. Ashawani Kumar",
+     "r": "407"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Ananlysis and Integral Transforms",
+     "f": "Dr. Keerti Srivastava",
+     "r": "407"
+    }
+   ],
+   "Tue": [
+    {
+     "k": "DLD",
+     "t": "P",
+     "s": "Digital Logic Design Lab",
+     "f": "Mr. Ashawani Kumar",
+     "r": "LGF1"
+    },
+    {
+     "k": "DLD",
+     "t": "P",
+     "s": "Digital Logic Design Lab",
+     "f": "Mr. Ashawani Kumar",
+     "r": "LGF1"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Ms. Deepti Razdan",
+     "r": "407"
+    },
+    {
+     "k": "CAJ",
+     "t": "L",
+     "s": "Core and Advance Java",
+     "f": "Mr. Avinash Pandey",
+     "r": "407"
+    },
+    null,
+    {
+     "k": "OB",
+     "t": "L",
+     "s": "Organizational Behaviour",
+     "f": "Dr. Anshubhi Bahadur",
+     "r": "407"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Ananlysis and Integral Transforms",
+     "f": "Dr. Keerti Srivastava",
+     "r": "407"
+    },
+    {
+     "k": "LIB"
+    }
+   ],
+   "Wed": [
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Mr. Ashawani Kumar",
+     "r": "407"
+    },
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure Using 'C'",
+     "f": "Mr. Abhishek Sharma",
+     "r": "407"
+    },
+    {
+     "k": "OB",
+     "t": "L",
+     "s": "Organizational Behaviour",
+     "f": "Dr. Anshubhi Bahadur",
+     "r": "407"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Ms. Deepti Razdan",
+     "r": "407"
+    },
+    null,
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Ananlysis and Integral Transforms",
+     "f": "Dr. Keerti Srivastava",
+     "r": "407"
+    },
+    {
+     "k": "CAJ",
+     "t": "P",
+     "s": "Core and Advance Java Lab",
+     "f": "Mr. Avinash Pandey",
+     "r": "LAB-3"
+    },
+    {
+     "k": "CAJ",
+     "t": "P",
+     "s": "Core and Advance Java Lab",
+     "f": "Mr. Avinash Pandey",
+     "r": "LAB-3"
+    }
+   ],
+   "Thu": [
+    {
+     "k": "CAJ",
+     "t": "L",
+     "s": "Core and Advance Java",
+     "f": "Mr. Avinash Pandey",
+     "r": "407"
+    },
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure Using 'C'",
+     "f": "Mr. Abhishek Sharma",
+     "r": "407"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Ananlysis and Integral Transforms",
+     "f": "Dr. Keerti Srivastava",
+     "r": "407"
+    },
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Mr. Ashawani Kumar",
+     "r": "407"
+    },
+    null,
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Ms. Deepti Razdan",
+     "r": "407"
+    },
+    null,
+    null
+   ],
+   "Fri": [
+    {
+     "k": "CAJ",
+     "t": "L",
+     "s": "Core and Advance Java",
+     "f": "Mr. Avinash Pandey",
+     "r": "407"
+    },
+    {
+     "k": "IC",
+     "t": "L",
+     "s": "Indian Constitution",
+     "f": "Dr. Gunjan Srivastava",
+     "r": "407"
+    },
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Mr. Ashawani Kumar",
+     "r": "407"
+    },
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure Using 'C'",
+     "f": "Mr. Abhishek Sharma",
+     "r": "407"
+    },
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  "courses": [
+   {
+    "code": "NHS4301",
+    "name": "Organizational Behaviour",
+    "f": "Dr. Anshubhi Bahadur"
+   },
+   {
+    "code": "NBS4301",
+    "name": "Computerlex Ananlysis and Integral Transforms",
+    "f": "Dr. Keerti Srivastava"
+   },
+   {
+    "code": "NCS4301",
+    "name": "Discrete Mathematics",
+    "f": "Ms. Deepti Razdan"
+   },
+   {
+    "code": "NCS4302",
+    "name": "Data Structure Using 'C'",
+    "f": "Mr. Abhishek Sharma"
+   },
+   {
+    "code": "NCS4303",
+    "name": "Digital Logic Design",
+    "f": "Mr. Ashawani Kumar"
+   },
+   {
+    "code": "NCS4304",
+    "name": "Core and Advance Java",
+    "f": "Mr. Avinash Pandey"
+   },
+   {
+    "code": "NVC4301",
+    "name": "Indian Constitution",
+    "f": "Dr. Gunjan Srivastava"
+   },
+   {
+    "code": "NCS4352",
+    "name": "Data Structure Lab",
+    "f": "Mr. Abhishek Sharma"
+   },
+   {
+    "code": "NCS4353",
+    "name": "Digital Logic Design Lab",
+    "f": "Mr. Ashawani Kumar"
+   },
+   {
+    "code": "NCS4354",
+    "name": "Core and Advance Java Lab",
+    "f": "Mr. Avinash Pandey"
+   },
+   {
+    "code": "NGP4301",
+    "name": "General Proficiency",
+    "f": "Mr. Shashwat Shukla"
+   },
+   {
+    "code": "LIB",
+    "name": "Library",
+    "f": ""
+   }
+  ]
+ },
+ "CS-2G": {
+  "slots": {
+   "Mon": [
+    {
+     "k": "OB",
+     "t": "L",
+     "s": "Organizational Behaviour",
+     "f": "Dr. Anshubhi Bahadur",
+     "r": "408"
+    },
+    {
+     "k": "CAJ",
+     "t": "L",
+     "s": "Core and Advance Java",
+     "f": "Mr. Avinash Pandey",
+     "r": "408"
+    },
+    {
+     "k": "CAJ",
+     "t": "P",
+     "s": "Core and Advance Java Lab",
+     "f": "Mr. Avinash Pandey",
+     "r": "LAB-3"
+    },
+    {
+     "k": "CAJ",
+     "t": "P",
+     "s": "Core and Advance Java Lab",
+     "f": "Mr. Avinash Pandey",
+     "r": "LAB-3"
+    },
+    null,
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Mrs. Deepti Razdan",
+     "r": "408"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Ananlysis and Integral Transforms",
+     "f": "Mr. Prashant Kr. Shukla",
+     "r": "408"
+    },
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Mr. Ashawani Kumar",
+     "r": "408"
+    }
+   ],
+   "Tue": [
+    {
+     "k": "IC",
+     "t": "L",
+     "s": "Indian Constitution",
+     "f": "Dr. Gunjan Srivastava",
+     "r": "408"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Ananlysis and Integral Transforms",
+     "f": "Mr. Prashant Kr. Shukla",
+     "r": "408"
+    },
+    {
+     "k": "DLD",
+     "t": "P",
+     "s": "Digital Logic Design Lab",
+     "f": "Mr. Ashawani Kumar",
+     "r": "LGF1"
+    },
+    {
+     "k": "DLD",
+     "t": "P",
+     "s": "Digital Logic Design Lab",
+     "f": "Mr. Ashawani Kumar",
+     "r": "LGF1"
+    },
+    null,
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Mr. Ashawani Kumar",
+     "r": "408"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Mrs. Deepti Razdan",
+     "r": "408"
+    },
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure Using 'C'",
+     "f": "Ms. Revathi L",
+     "r": "408"
+    }
+   ],
+   "Wed": [
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Mrs. Deepti Razdan",
+     "r": "408"
+    },
+    {
+     "k": "CAJ",
+     "t": "L",
+     "s": "Core and Advance Java",
+     "f": "Mr. Avinash Pandey",
+     "r": "408"
+    },
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Mr. Ashawani Kumar",
+     "r": "408"
+    },
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure Using 'C'",
+     "f": "Ms. Revathi L",
+     "r": "408"
+    },
+    null,
+    {
+     "k": "LIB"
+    },
+    null,
+    null
+   ],
+   "Thu": [
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure Using 'C'",
+     "f": "Ms. Revathi L",
+     "r": "408"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Ananlysis and Integral Transforms",
+     "f": "Mr. Prashant Kr. Shukla",
+     "r": "408"
+    },
+    {
+     "k": "OB",
+     "t": "L",
+     "s": "Organizational Behaviour",
+     "f": "Dr. Anshubhi Bahadur",
+     "r": "408"
+    },
+    {
+     "k": "CAJ",
+     "t": "L",
+     "s": "Core and Advance Java",
+     "f": "Mr. Avinash Pandey",
+     "r": "408"
+    },
+    null,
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Mr. Ashawani Kumar",
+     "r": "408"
+    },
+    {
+     "k": "DS",
+     "t": "P",
+     "s": "Data Structure Lab",
+     "f": "Ms. Revathi L",
+     "r": "LAB-3"
+    },
+    {
+     "k": "DS",
+     "t": "P",
+     "s": "Data Structure Lab",
+     "f": "Ms. Revathi L",
+     "r": "LAB-3"
+    }
+   ],
+   "Fri": [
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Ananlysis and Integral Transforms",
+     "f": "Mr. Prashant Kr. Shukla",
+     "r": "408"
+    },
+    {
+     "k": "CAJ",
+     "t": "L",
+     "s": "Core and Advance Java",
+     "f": "Mr. Avinash Pandey",
+     "r": "408"
+    },
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure Using 'C'",
+     "f": "Ms. Revathi L",
+     "r": "408"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Mrs. Deepti Razdan",
+     "r": "408"
+    },
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  "courses": [
+   {
+    "code": "NHS4301",
+    "name": "Organizational Behaviour",
+    "f": "Dr. Anshubhi Bahadur"
+   },
+   {
+    "code": "NBS4301",
+    "name": "Computerlex Ananlysis and Integral Transforms",
+    "f": "Mr. Prashant Kr. Shukla"
+   },
+   {
+    "code": "NCS4301",
+    "name": "Discrete Mathematics",
+    "f": "Mrs. Deepti Razdan"
+   },
+   {
+    "code": "NCS4302",
+    "name": "Data Structure Using 'C'",
+    "f": "Ms. Revathi L"
+   },
+   {
+    "code": "NCS4303",
+    "name": "Digital Logic Design",
+    "f": "Mr. Ashawani Kumar"
+   },
+   {
+    "code": "NCS4304",
+    "name": "Core and Advance Java",
+    "f": "Mr. Avinash Pandey"
+   },
+   {
+    "code": "NVC4301",
+    "name": "Indian Constitution",
+    "f": "Dr. Gunjan Srivastava"
+   },
+   {
+    "code": "NCS4352",
+    "name": "Data Structure Lab",
+    "f": "Ms. Revathi L"
+   },
+   {
+    "code": "NCS4353",
+    "name": "Digital Logic Design Lab",
+    "f": "Mr. Ashawani Kumar"
+   },
+   {
+    "code": "NCS4354",
+    "name": "Core and Advance Java Lab",
+    "f": "Mr. Avinash Pandey"
+   },
+   {
+    "code": "NGP4301",
+    "name": "General Proficiency",
+    "f": "Mrs. Deepti Razdan"
+   },
+   {
+    "code": "LIB",
+    "name": "Library",
+    "f": ""
+   }
+  ]
+ },
+ "CS-2H": {
+  "slots": {
+   "Mon": [
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Ms.Divya Srivastava",
+     "r": "409"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Ananlysis and Integral Transforms",
+     "f": "Dr. Vibhawari Srivasatava",
+     "r": "409"
+    },
+    {
+     "k": "IC",
+     "t": "L",
+     "s": "Indian Constitution",
+     "f": "Dr. Gunjan Srivastava",
+     "r": "409"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Mrs. Deepti Razdan",
+     "r": "409"
+    },
+    null,
+    {
+     "k": "LIB"
+    },
+    {
+     "k": "OB",
+     "t": "L",
+     "s": "Organizational Behaviour",
+     "f": "Dr. Anshubhi Bahadur",
+     "r": "409"
+    },
+    {
+     "k": "CAJ",
+     "t": "L",
+     "s": "Core and Advance Java",
+     "f": "Mr. Avinash Pandey",
+     "r": "409"
+    }
+   ],
+   "Tue": [
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Mrs. Deepti Razdan",
+     "r": "409"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Ananlysis and Integral Transforms",
+     "f": "Dr. Vibhawari Srivasatava",
+     "r": "409"
+    },
+    {
+     "k": "OB",
+     "t": "L",
+     "s": "Organizational Behaviour",
+     "f": "Dr. Anshubhi Bahadur",
+     "r": "409"
+    },
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure Using 'C'",
+     "f": "Mr. Abhishek Sharma",
+     "r": "409"
+    },
+    null,
+    null,
+    null,
+    null
+   ],
+   "Wed": [
+    {
+     "k": "DLD",
+     "t": "P",
+     "s": "Digital Logic Design Lab",
+     "f": "Ms.Divya Srivastava",
+     "r": "LGF01"
+    },
+    {
+     "k": "DLD",
+     "t": "P",
+     "s": "Digital Logic Design Lab",
+     "f": "Ms.Divya Srivastava",
+     "r": "LGF01"
+    },
+    {
+     "k": "CAJ",
+     "t": "L",
+     "s": "Core and Advance Java",
+     "f": "Mr. Avinash Pandey",
+     "r": "409"
+    },
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Ms.Divya Srivastava",
+     "r": "409"
+    },
+    null,
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure Using 'C'",
+     "f": "Mr. Abhishek Sharma",
+     "r": "409"
+    },
+    null,
+    null
+   ],
+   "Thu": [
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Mrs. Deepti Razdan",
+     "r": "409"
+    },
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Ms.Divya Srivastava",
+     "r": "409"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Ananlysis and Integral Transforms",
+     "f": "Dr. Vibhawari Srivasatava",
+     "r": "409"
+    },
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure Using 'C'",
+     "f": "Mr. Abhishek Sharma",
+     "r": "409"
+    },
+    null,
+    {
+     "k": "CAJ",
+     "t": "L",
+     "s": "Core and Advance Java",
+     "f": "Mr. Avinash Pandey",
+     "r": "409"
+    },
+    {
+     "k": "DS",
+     "t": "P",
+     "s": "Data Structure Lab",
+     "f": "Mr. Abhishek Sharma",
+     "r": "LAB-2"
+    },
+    {
+     "k": "DS",
+     "t": "P",
+     "s": "Data Structure Lab",
+     "f": "Mr. Abhishek Sharma",
+     "r": "LAB-2"
+    }
+   ],
+   "Fri": [
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Ms.Divya Srivastava",
+     "r": "409"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Mrs. Deepti Razdan",
+     "r": "409"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Ananlysis and Integral Transforms",
+     "f": "Dr. Vibhawari Srivasatava",
+     "r": "409"
+    },
+    {
+     "k": "CAJ",
+     "t": "L",
+     "s": "Core and Advance Java",
+     "f": "Mr. Avinash Pandey",
+     "r": "409"
+    },
+    null,
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure Using 'C'",
+     "f": "Mr. Abhishek Sharma",
+     "r": "409"
+    },
+    {
+     "k": "CAJ",
+     "t": "P",
+     "s": "Core and Advance Java Lab",
+     "f": "Mr. Avinash Pandey",
+     "r": "LAB-2"
+    },
+    {
+     "k": "CAJ",
+     "t": "P",
+     "s": "Core and Advance Java Lab",
+     "f": "Mr. Avinash Pandey",
+     "r": "LAB-2"
+    }
+   ]
+  },
+  "courses": [
+   {
+    "code": "NHS4301",
+    "name": "Organizational Behaviour",
+    "f": "Dr. Anshubhi Bahadur"
+   },
+   {
+    "code": "NBS4301",
+    "name": "Computerlex Ananlysis and Integral Transforms",
+    "f": "Dr. Vibhawari Srivasatava"
+   },
+   {
+    "code": "NCS4301",
+    "name": "Discrete Mathematics",
+    "f": "Mrs. Deepti Razdan"
+   },
+   {
+    "code": "NCS4302",
+    "name": "Data Structure Using 'C'",
+    "f": "Mr. Abhishek Sharma"
+   },
+   {
+    "code": "NCS4303",
+    "name": "Digital Logic Design",
+    "f": "Ms.Divya Srivastava"
+   },
+   {
+    "code": "NCS4304",
+    "name": "Core and Advance Java",
+    "f": "Mr. Avinash Pandey"
+   },
+   {
+    "code": "NVC4301",
+    "name": "Indian Constitution",
+    "f": "Dr. Gunjan Srivastava"
+   },
+   {
+    "code": "NCS4352",
+    "name": "Data Structure Lab",
+    "f": "Mr. Abhishek Sharma"
+   },
+   {
+    "code": "NCS4353",
+    "name": "Digital Logic Design Lab",
+    "f": "Ms.Divya Srivastava"
+   },
+   {
+    "code": "NCS4354",
+    "name": "Core and Advance Java Lab",
+    "f": "Mr. Avinash Pandey"
+   },
+   {
+    "code": "NGP4301",
+    "name": "General Proficiency",
+    "f": "Mr. Satish Kumar Singh"
+   },
+   {
+    "code": "LIB",
+    "name": "Library",
+    "f": ""
+   }
+  ]
+ },
+ "CSE(AI)2A": {
+  "slots": {
+   "Mon": [
+    {
+     "k": "DLD",
+     "t": "P",
+     "s": "Digital Logic Design Lab",
+     "f": "Mr. Chanchal Nigam",
+     "r": "LGF01"
+    },
+    {
+     "k": "DLD",
+     "t": "P",
+     "s": "Digital Logic Design Lab",
+     "f": "Mr. Chanchal Nigam",
+     "r": "LGF01"
+    },
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure using ‘C’",
+     "f": "Mr. Gaurav Singh",
+     "r": "419"
+    },
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Mr. Chanchal Nigam",
+     "r": "419"
+    },
+    null,
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Analysis and Integral Transforms",
+     "f": "Dr. Shikha Yadav",
+     "r": "419"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "DM",
+     "f": "",
+     "r": "419"
+    },
+    {
+     "k": "AIMES",
+     "t": "L",
+     "s": "Artificial Intelligence in Mechanical Engineering Systems",
+     "f": "Dr. Amrit Anand Dosar",
+     "r": "419"
+    }
+   ],
+   "Tue": [
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Analysis and Integral Transforms",
+     "f": "Dr. Shikha Yadav",
+     "r": "419"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "DM",
+     "f": "",
+     "r": "419"
+    },
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure using ‘C’",
+     "f": "Mr. Gaurav Singh",
+     "r": "419"
+    },
+    {
+     "k": "AIMES",
+     "t": "L",
+     "s": "Artificial Intelligence in Mechanical Engineering Systems",
+     "f": "Dr. Amrit Anand Dosar",
+     "r": "419"
+    },
+    null,
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Mr. Chanchal Nigam",
+     "r": "419"
+    },
+    {
+     "k": "LIB"
+    },
+    null
+   ],
+   "Wed": [
+    {
+     "k": "IS",
+     "t": "L",
+     "s": "Industrial Sociology",
+     "f": "Dr. Pooja Verma",
+     "r": "419"
+    },
+    {
+     "k": "AIMES",
+     "t": "L",
+     "s": "Artificial Intelligence in Mechanical Engineering Systems",
+     "f": "Dr. Amrit Anand Dosar",
+     "r": "419"
+    },
+    {
+     "k": "YOGA",
+     "t": "P",
+     "s": "Yoga Activities",
+     "f": "Ms. Veena Dwivedi",
+     "r": "CONFERENCE HALL"
+    },
+    {
+     "k": "YOGA",
+     "t": "P",
+     "s": "Yoga Activities",
+     "f": "Ms. Veena Dwivedi",
+     "r": "CONFERENCE HALL"
+    },
+    null,
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure using ‘C’",
+     "f": "Mr. Gaurav Singh",
+     "r": "419"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Analysis and Integral Transforms",
+     "f": "Dr. Shikha Yadav",
+     "r": "419"
+    },
+    null
+   ],
+   "Thu": [
+    {
+     "k": "IS",
+     "t": "L",
+     "s": "Industrial Sociology",
+     "f": "Dr. Pooja Verma",
+     "r": "419"
+    },
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Mr. Chanchal Nigam",
+     "r": "419"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "DM",
+     "f": "",
+     "r": "419"
+    },
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure using ‘C’",
+     "f": "Mr. Gaurav Singh",
+     "r": "419"
+    },
+    null,
+    null,
+    null,
+    null
+   ],
+   "Fri": [
+    {
+     "k": "AIMES",
+     "t": "L",
+     "s": "Artificial Intelligence in Mechanical Engineering Systems",
+     "f": "Dr. Amrit Anand Dosar",
+     "r": "419"
+    },
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Mr. Chanchal Nigam",
+     "r": "419"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "DM",
+     "f": "",
+     "r": "419"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Analysis and Integral Transforms",
+     "f": "Dr. Shikha Yadav",
+     "r": "419"
+    },
+    null,
+    {
+     "k": "DS",
+     "t": "P",
+     "s": "Data Structure Lab",
+     "f": "Mr. Gaurav Singh",
+     "r": "Lab-3"
+    },
+    {
+     "k": "DS",
+     "t": "P",
+     "s": "Data Structure Lab",
+     "f": "Mr. Gaurav Singh",
+     "r": "Lab-3"
+    },
+    {
+     "k": "DS",
+     "t": "P",
+     "s": "Data Structure Lab",
+     "f": "Mr. Gaurav Singh",
+     "r": "Lab-3"
+    }
+   ]
+  },
+  "courses": [
+   {
+    "code": "NHS4302",
+    "name": "Industrial Sociology",
+    "f": "Dr. Pooja Verma"
+   },
+   {
+    "code": "NBS4301",
+    "name": "Computerlex Analysis and Integral Transforms",
+    "f": "Dr. Shikha Yadav"
+   },
+   {
+    "code": "NCS4301",
+    "name": "Discrete Mathematics",
+    "f": "Ms. Hima Saxena"
+   },
+   {
+    "code": "NCS4302",
+    "name": "Data Structure using ‘C’",
+    "f": "Mr. Gaurav Singh"
+   },
+   {
+    "code": "NCS4303",
+    "name": "Digital Logic Design",
+    "f": "Mr. Chanchal Nigam"
+   },
+   {
+    "code": "NAI4302",
+    "name": "Artificial Intelligence in Mechanical Engineering Systems",
+    "f": "Dr. Amrit Anand Dosar"
+   },
+   {
+    "code": "NCC5351",
+    "name": "Yoga Activities",
+    "f": "Ms. Veena Dwivedi"
+   },
+   {
+    "code": "NCS4352",
+    "name": "Data Structure Lab",
+    "f": "Mr. Gaurav Singh"
+   },
+   {
+    "code": "NCS4353",
+    "name": "Digital Logic Design Lab",
+    "f": "Mr. Chanchal Nigam"
+   },
+   {
+    "code": "NGP4301",
+    "name": "General Proficiency",
+    "f": "Ms. Kratika Chandra"
+   },
+   {
+    "code": "LIB",
+    "name": "Library",
+    "f": ""
+   }
+  ]
+ },
+ "CSE(AI)2B": {
+  "slots": {
+   "Mon": [
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Ms.Pratibha Pandey",
+     "r": "411"
+    },
+    {
+     "k": "AI MES",
+     "t": "L",
+     "s": "Artificial Intelligence in Mechanical Engineering Systems",
+     "f": "Mr. Shailesh Vishwakarma",
+     "r": "411"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Analysis and Integral Transforms",
+     "f": "Mr. U.S. Shukla",
+     "r": "411"
+    },
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure using ‘C’",
+     "f": "Mr. Peeyush Kumar Shukla",
+     "r": "411"
+    },
+    null,
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Ms.Divya Srivastava",
+     "r": "411"
+    },
+    {
+     "k": "YOGA",
+     "t": "P",
+     "s": "Yoga Activities",
+     "f": "Ms. Veena Dwivedi",
+     "r": "CONFERENCE HALL"
+    },
+    {
+     "k": "YOGA",
+     "t": "P",
+     "s": "Yoga Activities",
+     "f": "Ms. Veena Dwivedi",
+     "r": "CONFERENCE HALL"
+    }
+   ],
+   "Tue": [
+    {
+     "k": "AI MES",
+     "t": "L",
+     "s": "Artificial Intelligence in Mechanical Engineering Systems",
+     "f": "Mr. Shailesh Vishwakarma",
+     "r": "411"
+    },
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Ms.Divya Srivastava",
+     "r": "411"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Analysis and Integral Transforms",
+     "f": "Mr. U.S. Shukla",
+     "r": "411"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Ms.Pratibha Pandey",
+     "r": "411"
+    },
+    null,
+    {
+     "k": "DS",
+     "t": "P",
+     "s": "Data Structure Lab",
+     "f": "Mr. Peeyush Kumar Shukla",
+     "r": "Lab(602)"
+    },
+    {
+     "k": "DS",
+     "t": "P",
+     "s": "Data Structure Lab",
+     "f": "Mr. Peeyush Kumar Shukla",
+     "r": "Lab(602)"
+    },
+    {
+     "k": "IS",
+     "t": "L",
+     "s": "Industrial Sociology",
+     "f": "Dr. Pooja Verma",
+     "r": "411"
+    }
+   ],
+   "Wed": [
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Ms.Pratibha Pandey",
+     "r": "411"
+    },
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure using ‘C’",
+     "f": "Mr. Peeyush Kumar Shukla",
+     "r": "411"
+    },
+    {
+     "k": "DLD",
+     "t": "P",
+     "s": "Digital Logic Design Lab",
+     "f": "Ms.Divya Srivastava",
+     "r": "LGF-1"
+    },
+    {
+     "k": "DLD",
+     "t": "P",
+     "s": "Digital Logic Design Lab",
+     "f": "Ms.Divya Srivastava",
+     "r": "LGF-1"
+    },
+    null,
+    null,
+    null,
+    null
+   ],
+   "Thu": [
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Analysis and Integral Transforms",
+     "f": "Mr. U.S. Shukla",
+     "r": "411"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Ms.Pratibha Pandey",
+     "r": "411"
+    },
+    {
+     "k": "AI MES",
+     "t": "L",
+     "s": "Artificial Intelligence in Mechanical Engineering Systems",
+     "f": "Mr. Shailesh Vishwakarma",
+     "r": "411"
+    },
+    {
+     "k": "IS",
+     "t": "L",
+     "s": "Industrial Sociology",
+     "f": "Dr. Pooja Verma",
+     "r": "411"
+    },
+    null,
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Ms.Divya Srivastava",
+     "r": "411"
+    },
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure using ‘C’",
+     "f": "Mr. Peeyush Kumar Shukla",
+     "r": "411"
+    },
+    {
+     "k": "LIB"
+    }
+   ],
+   "Fri": [
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure using ‘C’",
+     "f": "Mr. Peeyush Kumar Shukla",
+     "r": "411"
+    },
+    {
+     "k": "AI MES",
+     "t": "L",
+     "s": "Artificial Intelligence in Mechanical Engineering Systems",
+     "f": "Mr. Shailesh Vishwakarma",
+     "r": "411"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Analysis and Integral Transforms",
+     "f": "Mr. U.S. Shukla",
+     "r": "411"
+    },
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Ms.Divya Srivastava",
+     "r": "411"
+    },
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  "courses": [
+   {
+    "code": "NHS4302",
+    "name": "Industrial Sociology",
+    "f": "Dr. Pooja Verma"
+   },
+   {
+    "code": "NBS4301",
+    "name": "Computerlex Analysis and Integral Transforms",
+    "f": "Mr. U.S. Shukla"
+   },
+   {
+    "code": "NCS4301",
+    "name": "Discrete Mathematics",
+    "f": "Ms.Pratibha Pandey"
+   },
+   {
+    "code": "NCS4302",
+    "name": "Data Structure using ‘C’",
+    "f": "Mr. Peeyush Kumar Shukla"
+   },
+   {
+    "code": "NCS4303",
+    "name": "Digital Logic Design",
+    "f": "Ms.Divya Srivastava"
+   },
+   {
+    "code": "NAI4302",
+    "name": "Artificial Intelligence in Mechanical Engineering Systems",
+    "f": "Mr. Shailesh Vishwakarma"
+   },
+   {
+    "code": "NCC5351",
+    "name": "Yoga Activities",
+    "f": "Ms. Veena Dwivedi"
+   },
+   {
+    "code": "NCS4352",
+    "name": "Data Structure Lab",
+    "f": "Mr. Peeyush Kumar Shukla"
+   },
+   {
+    "code": "NCS4353",
+    "name": "Digital Logic Design Lab",
+    "f": "Ms.Divya Srivastava"
+   },
+   {
+    "code": "NGP4301",
+    "name": "General Proficiency",
+    "f": "Mr. Peeyush Kumar Shukla"
+   },
+   {
+    "code": "LIB",
+    "name": "Library",
+    "f": ""
+   }
+  ]
+ },
+ "CSE(AI)2C": {
+  "slots": {
+   "Mon": [
+    {
+     "k": "AI MES",
+     "t": "L",
+     "s": "Artificial Intelligence in Mechanical Engineering Systems",
+     "f": "Mr. Shailesh Vishwakarma",
+     "r": "412"
+    },
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure using ‘C’",
+     "f": "Mr. Surabhi Mishra",
+     "r": "412"
+    },
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Ms. Anshu Kahre",
+     "r": "412"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Analysis and Integral Transforms",
+     "f": "Mr. U.S. Shukla",
+     "r": ""
+    },
+    null,
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Ms. Pratibha Pandey",
+     "r": "412"
+    },
+    {
+     "k": "LIB"
+    },
+    null
+   ],
+   "Tue": [
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Ms. Pratibha Pandey",
+     "r": "412"
+    },
+    {
+     "k": "AI MES",
+     "t": "L",
+     "s": "Artificial Intelligence in Mechanical Engineering Systems",
+     "f": "Mr. Shailesh Vishwakarma",
+     "r": "412"
+    },
+    {
+     "k": "DS",
+     "t": "P",
+     "s": "Data Structure Lab",
+     "f": "Ms.Surabhi Mishra",
+     "r": "Lab-2"
+    },
+    {
+     "k": "DS",
+     "t": "P",
+     "s": "Data Structure Lab",
+     "f": "Ms.Surabhi Mishra",
+     "r": "Lab-2"
+    },
+    null,
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Ms. Anshu Kahre",
+     "r": "412"
+    },
+    {
+     "k": "YOGA",
+     "t": "P",
+     "s": "Yoga Activities",
+     "f": "Ms. Veena Dwivedi",
+     "r": "CONFERENCE HALL"
+    },
+    {
+     "k": "YOGA",
+     "t": "P",
+     "s": "Yoga Activities",
+     "f": "Ms. Veena Dwivedi",
+     "r": "CONFERENCE HALL"
+    }
+   ],
+   "Wed": [
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure using ‘C’",
+     "f": "Mr. Surabhi Mishra",
+     "r": "412"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Analysis and Integral Transforms",
+     "f": "Mr. U.S. Shukla",
+     "r": "412"
+    },
+    {
+     "k": "AI MES",
+     "t": "L",
+     "s": "Artificial Intelligence in Mechanical Engineering Systems",
+     "f": "Mr. Shailesh Vishwakarma",
+     "r": "412"
+    },
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Ms. Anshu Kahre",
+     "r": "412"
+    },
+    null,
+    null,
+    null,
+    null
+   ],
+   "Thu": [
+    {
+     "k": "DLD",
+     "t": "P",
+     "s": "Digital Logic Design Lab",
+     "f": "Ms. Preeti Srivastava",
+     "r": "LGF01"
+    },
+    {
+     "k": "DLD",
+     "t": "P",
+     "s": "Digital Logic Design Lab",
+     "f": "Ms. Preeti Srivastava",
+     "r": "LGF01"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Ms. Pratibha Pandey",
+     "r": "412"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Analysis and Integral Transforms",
+     "f": "Mr. U.S. Shukla",
+     "r": "412"
+    },
+    null,
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure using ‘C’",
+     "f": "Mr. Surabhi Mishra",
+     "r": "412"
+    },
+    {
+     "k": "IS",
+     "t": "L",
+     "s": "Industrial Sociology",
+     "f": "Dr. Pooja Verma",
+     "r": "412"
+    },
+    null
+   ],
+   "Fri": [
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure using ‘C’",
+     "f": "Mr. Surabhi Mishra",
+     "r": "412"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Ms. Pratibha Pandey",
+     "r": "412"
+    },
+    {
+     "k": "AI MES",
+     "t": "L",
+     "s": "Artificial Intelligence in Mechanical Engineering Systems",
+     "f": "Mr. Shailesh Vishwakarma",
+     "r": "412"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Analysis and Integral Transforms",
+     "f": "Mr. U.S. Shukla",
+     "r": "412"
+    },
+    null,
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Ms. Anshu Kahre",
+     "r": "412"
+    },
+    {
+     "k": "IS",
+     "t": "L",
+     "s": "Industrial Sociology",
+     "f": "Dr. Pooja Verma",
+     "r": "412"
+    },
+    null
+   ]
+  },
+  "courses": [
+   {
+    "code": "NHS4302",
+    "name": "Industrial Sociology",
+    "f": "Dr. Pooja Verma"
+   },
+   {
+    "code": "NBS4301",
+    "name": "Computerlex Analysis and Integral Transforms",
+    "f": "Mr. U.S. Shukla"
+   },
+   {
+    "code": "NCS4301",
+    "name": "Discrete Mathematics",
+    "f": "Ms. Pratibha Pandey"
+   },
+   {
+    "code": "NCS4302",
+    "name": "Data Structure using ‘C’",
+    "f": "Mr. Surabhi Mishra"
+   },
+   {
+    "code": "NCS4303",
+    "name": "Digital Logic Design",
+    "f": "Ms. Anshu Kahre"
+   },
+   {
+    "code": "NAI4302",
+    "name": "Artificial Intelligence in Mechanical Engineering Systems",
+    "f": "Mr. Shailesh Vishwakarma"
+   },
+   {
+    "code": "NCC5351",
+    "name": "Yoga Activities",
+    "f": "Ms. Veena Dwivedi"
+   },
+   {
+    "code": "NCS4352",
+    "name": "Data Structure Lab",
+    "f": "Ms.Surabhi Mishra"
+   },
+   {
+    "code": "NCS4353",
+    "name": "Digital Logic Design Lab",
+    "f": "Ms. Preeti Srivastava"
+   },
+   {
+    "code": "NGP4301",
+    "name": "General Proficiency",
+    "f": "Ms. Divya Agrahari"
+   },
+   {
+    "code": "LIB",
+    "name": "Library",
+    "f": ""
+   }
+  ]
+ },
+ "CSE(AI)2D": {
+  "slots": {
+   "Mon": [
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Analysis and Integral Transforms",
+     "f": "Dr. Keerti Srivastava",
+     "r": "413"
+    },
+    {
+     "k": "AI MES",
+     "t": "L",
+     "s": "Artificial Intelligence in Mechanical Engineering Systems",
+     "f": "Mr. Pradeep Kumar Gupta",
+     "r": "413"
+    },
+    {
+     "k": "DLD",
+     "t": "P",
+     "s": "Digital Logic Design Lab",
+     "f": "Dr. Mohd. Ahmer",
+     "r": "LGF1"
+    },
+    {
+     "k": "DLD",
+     "t": "P",
+     "s": "Digital Logic Design Lab",
+     "f": "Dr. Mohd. Ahmer",
+     "r": "LGF1"
+    },
+    null,
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure using ‘C’",
+     "f": "Mr. Surabhi Mishra",
+     "r": "413"
+    },
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Ms. Anshu Kahre",
+     "r": "413"
+    },
+    {
+     "k": "LIB"
+    }
+   ],
+   "Tue": [
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Ms. Anshu Kahre",
+     "r": "413"
+    },
+    {
+     "k": "AI MES",
+     "t": "L",
+     "s": "Artificial Intelligence in Mechanical Engineering Systems",
+     "f": "Mr. Pradeep Kumar Gupta",
+     "r": "413"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Analysis and Integral Transforms",
+     "f": "Dr. Keerti Srivastava",
+     "r": "413"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Mr. Anand Kumar Pandey",
+     "r": "413"
+    },
+    null,
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure using ‘C’",
+     "f": "Mr. Surabhi Mishra",
+     "r": "413"
+    },
+    null,
+    null
+   ],
+   "Wed": [
+    {
+     "k": "AI MES",
+     "t": "L",
+     "s": "Artificial Intelligence in Mechanical Engineering Systems",
+     "f": "Mr. Pradeep Kumar Gupta",
+     "r": "413"
+    },
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure using ‘C’",
+     "f": "Mr. Surabhi Mishra",
+     "r": "413"
+    },
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Ms. Anshu Kahre",
+     "r": "413"
+    },
+    {
+     "k": "IS",
+     "t": "L",
+     "s": "Industrial Sociology",
+     "f": "Dr. Pooja Verma",
+     "r": "413"
+    },
+    null,
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Mr. Anand Kumar Pandey",
+     "r": "413"
+    },
+    {
+     "k": "YOGA",
+     "t": "P",
+     "s": "Yoga Activities",
+     "f": "Ms. Veena Dwivedi",
+     "r": "CONFERENCE HALL"
+    },
+    {
+     "k": "YOGA",
+     "t": "P",
+     "s": "Yoga Activities",
+     "f": "Ms. Veena Dwivedi",
+     "r": "CONFERENCE HALL"
+    }
+   ],
+   "Thu": [
+    {
+     "k": "AI MES",
+     "t": "L",
+     "s": "Artificial Intelligence in Mechanical Engineering Systems",
+     "f": "Mr. Pradeep Kumar Gupta",
+     "r": "413"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Mr. Anand Kumar Pandey",
+     "r": "413"
+    },
+    {
+     "k": "DS",
+     "t": "P",
+     "s": "Data Structure Lab",
+     "f": "Ms.Surabhi Mishra",
+     "r": "Lab-3"
+    },
+    {
+     "k": "DS",
+     "t": "P",
+     "s": "Data Structure Lab",
+     "f": "Ms.Surabhi Mishra",
+     "r": "Lab-3"
+    },
+    null,
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Analysis and Integral Transforms",
+     "f": "Dr. Keerti Srivastava",
+     "r": "413"
+    },
+    null,
+    null
+   ],
+   "Fri": [
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Analysis and Integral Transforms",
+     "f": "Dr. Keerti Srivastava",
+     "r": "413"
+    },
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Ms. Anshu Kahre",
+     "r": "413"
+    },
+    {
+     "k": "IS",
+     "t": "L",
+     "s": "Industrial Sociology",
+     "f": "Dr. Pooja Verma",
+     "r": "413"
+    },
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure using ‘C’",
+     "f": "Mr. Surabhi Mishra",
+     "r": "413"
+    },
+    null,
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Mr. Anand Kumar Pandey",
+     "r": "413"
+    },
+    null,
+    null
+   ]
+  },
+  "courses": [
+   {
+    "code": "NHS4302",
+    "name": "Industrial Sociology",
+    "f": "Dr. Pooja Verma"
+   },
+   {
+    "code": "NBS4301",
+    "name": "Computerlex Analysis and Integral Transforms",
+    "f": "Dr. Keerti Srivastava"
+   },
+   {
+    "code": "NCS4301",
+    "name": "Discrete Mathematics",
+    "f": "Mr. Anand Kumar Pandey"
+   },
+   {
+    "code": "NCS4302",
+    "name": "Data Structure using ‘C’",
+    "f": "Mr. Surabhi Mishra"
+   },
+   {
+    "code": "NCS4303",
+    "name": "Digital Logic Design",
+    "f": "Ms. Anshu Kahre"
+   },
+   {
+    "code": "NAI4302",
+    "name": "Artificial Intelligence in Mechanical Engineering Systems",
+    "f": "Mr. Pradeep Kumar Gupta"
+   },
+   {
+    "code": "NCC5351",
+    "name": "Yoga Activities",
+    "f": "Ms. Veena Dwivedi"
+   },
+   {
+    "code": "NCS4352",
+    "name": "Data Structure Lab",
+    "f": "Ms.Surabhi Mishra"
+   },
+   {
+    "code": "NCS4353",
+    "name": "Digital Logic Design Lab",
+    "f": "Dr. Mohd. Ahmer"
+   },
+   {
+    "code": "NGP4301",
+    "name": "General Proficiency",
+    "f": "Ms. Shiva Pandey"
+   },
+   {
+    "code": "LIB",
+    "name": "Library",
+    "f": ""
+   }
+  ]
+ },
+ "CSE(AI)2E": {
+  "slots": {
+   "Mon": [
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Mr. Yogendra Kumar Tripathi",
+     "r": "414"
+    },
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Ms. Anshu Kahre",
+     "r": "414"
+    },
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure using ‘C’",
+     "f": "Mr. Peeyush Kumar Shukla",
+     "r": "414"
+    },
+    {
+     "k": "AI MES",
+     "t": "L",
+     "s": "Artificial Intelligence in Mechanical Engineering Systems",
+     "f": "Mr. Shailesh Vishwakarma",
+     "r": "414"
+    },
+    null,
+    null,
+    null,
+    null
+   ],
+   "Tue": [
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure using ‘C’",
+     "f": "Mr. Peeyush Kumar Shukla",
+     "r": "414"
+    },
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Ms. Anshu Kahre",
+     "r": "414"
+    },
+    {
+     "k": "IS",
+     "t": "L",
+     "s": "Industrial Sociology",
+     "f": "Dr. Pooja Verma",
+     "r": "414"
+    },
+    {
+     "k": "AI MES",
+     "t": "L",
+     "s": "Artificial Intelligence in Mechanical Engineering Systems",
+     "f": "Mr. Shailesh Vishwakarma",
+     "r": "414"
+    },
+    null,
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Mr. Yogendra Kumar Tripathi",
+     "r": "414"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Analysis and Integral Transforms",
+     "f": "Dr. Chetna Singh",
+     "r": "414"
+    },
+    {
+     "k": "LIB"
+    }
+   ],
+   "Wed": [
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Ms. Anshu Kahre",
+     "r": "414"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Analysis and Integral Transforms",
+     "f": "Dr. Chetna Singh",
+     "r": "414"
+    },
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure using ‘C’",
+     "f": "Mr. Peeyush Kumar Shukla",
+     "r": "414"
+    },
+    {
+     "k": "AI MES",
+     "t": "L",
+     "s": "Artificial Intelligence in Mechanical Engineering Systems",
+     "f": "Mr. Shailesh Vishwakarma",
+     "r": "414"
+    },
+    null,
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Mr. Yogendra Kumar Tripathi",
+     "r": "414"
+    },
+    {
+     "k": "DLD",
+     "t": "P",
+     "s": "Digital Logic Design Lab",
+     "f": "Dr. Mohd. Ahmer",
+     "r": "LGF01"
+    },
+    {
+     "k": "DLD",
+     "t": "P",
+     "s": "Digital Logic Design Lab",
+     "f": "Dr. Mohd. Ahmer",
+     "r": "LGF01"
+    }
+   ],
+   "Thu": [
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Analysis and Integral Transforms",
+     "f": "Dr. Chetna Singh",
+     "r": "414"
+    },
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure using ‘C’",
+     "f": "Mr. Peeyush Kumar Shukla",
+     "r": "414"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Mr. Yogendra Kumar Tripathi",
+     "r": "414"
+    },
+    {
+     "k": "AI MES",
+     "t": "L",
+     "s": "Artificial Intelligence in Mechanical Engineering Systems",
+     "f": "Mr. Shailesh Vishwakarma",
+     "r": "414"
+    },
+    null,
+    null,
+    null,
+    null
+   ],
+   "Fri": [
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Ms. Anshu Kahre",
+     "r": "414"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Analysis and Integral Transforms",
+     "f": "Dr. Chetna Singh",
+     "r": "414"
+    },
+    {
+     "k": "YOGA",
+     "t": "P",
+     "s": "Yoga Activities",
+     "f": "Ms. Veena Dwivedi",
+     "r": "CONFERENCE HALL"
+    },
+    {
+     "k": "YOGA",
+     "t": "P",
+     "s": "Yoga Activities",
+     "f": "Ms. Veena Dwivedi",
+     "r": "CONFERENCE HALL"
+    },
+    null,
+    {
+     "k": "IS",
+     "t": "L",
+     "s": "Industrial Sociology",
+     "f": "Dr. Pooja Verma",
+     "r": "414"
+    },
+    {
+     "k": "DS",
+     "t": "P",
+     "s": "Data Structure Lab",
+     "f": "Mr. Peeyush Kumar Shukla",
+     "r": "Lab(601)"
+    },
+    {
+     "k": "DS",
+     "t": "P",
+     "s": "Data Structure Lab",
+     "f": "Mr. Peeyush Kumar Shukla",
+     "r": "Lab(601)"
+    }
+   ]
+  },
+  "courses": [
+   {
+    "code": "NHS4302",
+    "name": "Industrial Sociology",
+    "f": "Dr. Pooja Verma"
+   },
+   {
+    "code": "NBS4301",
+    "name": "Computerlex Analysis and Integral Transforms",
+    "f": "Dr. Chetna Singh"
+   },
+   {
+    "code": "NCS4301",
+    "name": "Discrete Mathematics",
+    "f": "Mr. Yogendra Kumar Tripathi"
+   },
+   {
+    "code": "NCS4302",
+    "name": "Data Structure using ‘C’",
+    "f": "Mr. Peeyush Kumar Shukla"
+   },
+   {
+    "code": "NCS4303",
+    "name": "Digital Logic Design",
+    "f": "Ms. Anshu Kahre"
+   },
+   {
+    "code": "NAI4302",
+    "name": "Artificial Intelligence in Mechanical Engineering Systems",
+    "f": "Mr. Shailesh Vishwakarma"
+   },
+   {
+    "code": "NCC5351",
+    "name": "Yoga Activities",
+    "f": "Ms. Veena Dwivedi"
+   },
+   {
+    "code": "NCS4352",
+    "name": "Data Structure Lab",
+    "f": "Mr. Peeyush Kumar Shukla"
+   },
+   {
+    "code": "NCS4353",
+    "name": "Digital Logic Design Lab",
+    "f": "Dr. Mohd. Ahmer"
+   },
+   {
+    "code": "NGP4301",
+    "name": "General Proficiency",
+    "f": "Mr. Naseem Ahmad Khan"
+   },
+   {
+    "code": "LIB",
+    "name": "Library",
+    "f": ""
+   }
+  ]
+ },
+ "CSE(AI)2F": {
+  "slots": {
+   "Mon": [
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Mr. Vivek Singh",
+     "r": "415"
+    },
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure using ‘C’",
+     "f": "Ms. Pooja Tiwari",
+     "r": "415"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Analysis and Integral Transforms",
+     "f": "Dr. R.K.Pandey",
+     "r": "415"
+    },
+    {
+     "k": "IS",
+     "t": "L",
+     "s": "Industrial Sociology",
+     "f": "Dr. Pooja Verma",
+     "r": "415"
+    },
+    null,
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Mr.Yogendra Kumar Tripathi",
+     "r": "415"
+    },
+    null,
+    null
+   ],
+   "Tue": [
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Mr.Yogendra Kumar Tripathi",
+     "r": "415"
+    },
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure using ‘C’",
+     "f": "Ms. Pooja Tiwari",
+     "r": "415"
+    },
+    {
+     "k": "YOGA",
+     "t": "P",
+     "s": "Yoga Activities",
+     "f": "Ms. Veena Dwivedi",
+     "r": "CONFERENCE HALL"
+    },
+    {
+     "k": "YOGA",
+     "t": "P",
+     "s": "Yoga Activities",
+     "f": "Ms. Veena Dwivedi",
+     "r": "CONFERENCE HALL"
+    },
+    null,
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Mr. Vivek Singh",
+     "r": "415"
+    },
+    {
+     "k": "AIMES",
+     "t": "L",
+     "s": "Artificial Intelligence in Mechanical Engineering Systems",
+     "f": "Mr. Manoj Soni",
+     "r": "415"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Analysis and Integral Transforms",
+     "f": "Dr. R.K.Pandey",
+     "r": "415"
+    }
+   ],
+   "Wed": [
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure using ‘C’",
+     "f": "Ms. Pooja Tiwari",
+     "r": "415"
+    },
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Mr. Vivek Singh",
+     "r": "415"
+    },
+    {
+     "k": "DS",
+     "t": "P",
+     "s": "Data Structure Lab",
+     "f": "Ms. Pooja Tiwari",
+     "r": "Lab-2"
+    },
+    {
+     "k": "DS",
+     "t": "P",
+     "s": "Data Structure Lab",
+     "f": "Ms. Pooja Tiwari",
+     "r": "Lab-2"
+    },
+    null,
+    {
+     "k": "AIMES",
+     "t": "L",
+     "s": "Artificial Intelligence in Mechanical Engineering Systems",
+     "f": "Mr. Manoj Soni",
+     "r": "415"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Analysis and Integral Transforms",
+     "f": "Dr. R.K.Pandey",
+     "r": "415"
+    },
+    null
+   ],
+   "Thu": [
+    {
+     "k": "AIMES",
+     "t": "L",
+     "s": "Artificial Intelligence in Mechanical Engineering Systems",
+     "f": "Mr. Manoj Soni",
+     "r": "415"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Mr.Yogendra Kumar Tripathi",
+     "r": "415"
+    },
+    {
+     "k": "DLD",
+     "t": "P",
+     "s": "Digital Logic Design Lab",
+     "f": "Ms. Poonam Verma",
+     "r": "LGF01"
+    },
+    {
+     "k": "DLD",
+     "t": "P",
+     "s": "Digital Logic Design Lab",
+     "f": "Ms. Poonam Verma",
+     "r": "LGF01"
+    },
+    null,
+    {
+     "k": "IS",
+     "t": "L",
+     "s": "Industrial Sociology",
+     "f": "Dr. Pooja Verma",
+     "r": "415"
+    },
+    null,
+    null
+   ],
+   "Fri": [
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Mr. Vivek Singh",
+     "r": "415"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Analysis and Integral Transforms",
+     "f": "Dr. R.K.Pandey",
+     "r": "415"
+    },
+    {
+     "k": "LIB"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Mr.Yogendra Kumar Tripathi",
+     "r": "415"
+    },
+    null,
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure using ‘C’",
+     "f": "Ms. Pooja Tiwari",
+     "r": "415"
+    },
+    {
+     "k": "AIMES",
+     "t": "L",
+     "s": "Artificial Intelligence in Mechanical Engineering Systems",
+     "f": "Mr. Manoj Soni",
+     "r": "415"
+    },
+    null
+   ]
+  },
+  "courses": [
+   {
+    "code": "NHS4302",
+    "name": "Industrial Sociology",
+    "f": "Dr. Pooja Verma"
+   },
+   {
+    "code": "NBS4301",
+    "name": "Computerlex Analysis and Integral Transforms",
+    "f": "Dr. R.K.Pandey"
+   },
+   {
+    "code": "NCS4301",
+    "name": "Discrete Mathematics",
+    "f": "Mr.Yogendra Kumar Tripathi"
+   },
+   {
+    "code": "NCS4302",
+    "name": "Data Structure using ‘C’",
+    "f": "Ms. Pooja Tiwari"
+   },
+   {
+    "code": "NCS4303",
+    "name": "Digital Logic Design",
+    "f": "Mr. Vivek Singh"
+   },
+   {
+    "code": "NAI4302",
+    "name": "Artificial Intelligence in Mechanical Engineering Systems",
+    "f": "Mr. Manoj Soni"
+   },
+   {
+    "code": "NCC5351",
+    "name": "Yoga Activities",
+    "f": "Ms. Veena Dwivedi"
+   },
+   {
+    "code": "NCS4352",
+    "name": "Data Structure Lab",
+    "f": "Ms. Pooja Tiwari"
+   },
+   {
+    "code": "NCS4353",
+    "name": "Digital Logic Design Lab",
+    "f": "Ms. Poonam Verma"
+   },
+   {
+    "code": "NGP4301",
+    "name": "General Proficiency",
+    "f": "Ms. Vaishnavi Yadav"
+   },
+   {
+    "code": "LIB",
+    "name": "Library",
+    "f": ""
+   }
+  ]
+ },
+ "CSE(AI)2G": {
+  "slots": {
+   "Mon": [
+    {
+     "k": "AIMES",
+     "t": "L",
+     "s": "Artificial Intelligence in Mechanical Engineering Systems",
+     "f": "Mr. Manoj Soni",
+     "r": "416"
+    },
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure using ‘C’",
+     "f": "Ms. Sweety Pal",
+     "r": "416"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Mr. Yogendra Kumar Tripathi",
+     "r": "416"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Analysis and Integral Transforms",
+     "f": "Ms. Aimen Abedi",
+     "r": "416"
+    },
+    null,
+    {
+     "k": "IS",
+     "t": "L",
+     "s": "Industrial Sociology",
+     "f": "Dr. Pooja Verma",
+     "r": "416"
+    },
+    {
+     "k": "DLD",
+     "t": "P",
+     "s": "Digital Logic Design Lab",
+     "f": "Ms. Poonam Verma",
+     "r": "LGF01"
+    },
+    {
+     "k": "DLD",
+     "t": "P",
+     "s": "Digital Logic Design Lab",
+     "f": "Ms. Poonam Verma",
+     "r": "LGF01"
+    }
+   ],
+   "Tue": [
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Mr. Vivek Singh",
+     "r": "416"
+    },
+    {
+     "k": "AIMES",
+     "t": "L",
+     "s": "Artificial Intelligence in Mechanical Engineering Systems",
+     "f": "Mr. Manoj Soni",
+     "r": "416"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Mr. Yogendra Kumar Tripathi",
+     "r": "416"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Analysis and Integral Transforms",
+     "f": "Ms. Aimen Abedi",
+     "r": "416"
+    },
+    null,
+    null,
+    null,
+    null
+   ],
+   "Wed": [
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure using ‘C’",
+     "f": "Ms. Sweety Pal",
+     "r": "416"
+    },
+    {
+     "k": "IS",
+     "t": "L",
+     "s": "Industrial Sociology",
+     "f": "Dr. Pooja Verma",
+     "r": "416"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Analysis and Integral Transforms",
+     "f": "Ms. Aimen Abedi",
+     "r": "416"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Mr. Yogendra Kumar Tripathi",
+     "r": "416"
+    },
+    null,
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Mr. Vivek Singh",
+     "r": "416"
+    },
+    null,
+    null
+   ],
+   "Thu": [
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure using ‘C’",
+     "f": "Ms. Sweety Pal",
+     "r": "416"
+    },
+    {
+     "k": "AIMES",
+     "t": "L",
+     "s": "Artificial Intelligence in Mechanical Engineering Systems",
+     "f": "Mr. Manoj Soni",
+     "r": "416"
+    },
+    {
+     "k": "DS",
+     "t": "P",
+     "s": "Data Structure Lab",
+     "f": "Ms. Sweety Pal",
+     "r": "Lab-2"
+    },
+    {
+     "k": "DS",
+     "t": "P",
+     "s": "Data Structure Lab",
+     "f": "Ms. Sweety Pal",
+     "r": "Lab-2"
+    },
+    null,
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Mr. Vivek Singh",
+     "r": "416"
+    },
+    {
+     "k": "LIB"
+    },
+    null
+   ],
+   "Fri": [
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Mr. Yogendra Kumar Tripathi",
+     "r": "416"
+    },
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure using ‘C’",
+     "f": "Ms. Sweety Pal",
+     "r": "416"
+    },
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Mr. Vivek Singh",
+     "r": "416"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Analysis and Integral Transforms",
+     "f": "Ms. Aimen Abedi",
+     "r": "416"
+    },
+    null,
+    {
+     "k": "AIMES",
+     "t": "L",
+     "s": "Artificial Intelligence in Mechanical Engineering Systems",
+     "f": "Mr. Manoj Soni",
+     "r": "416"
+    },
+    {
+     "k": "YOGA",
+     "t": "P",
+     "s": "Yoga Activities",
+     "f": "Ms. Veena Dwivedi",
+     "r": "CONFERENCE HALL"
+    },
+    {
+     "k": "YOGA",
+     "t": "P",
+     "s": "Yoga Activities",
+     "f": "Ms. Veena Dwivedi",
+     "r": "CONFERENCE HALL"
+    }
+   ]
+  },
+  "courses": [
+   {
+    "code": "NHS4302",
+    "name": "Industrial Sociology",
+    "f": "Dr. Pooja Verma"
+   },
+   {
+    "code": "NBS4301",
+    "name": "Computerlex Analysis and Integral Transforms",
+    "f": "Ms. Aimen Abedi"
+   },
+   {
+    "code": "NCS4301",
+    "name": "Discrete Mathematics",
+    "f": "Mr. Yogendra Kumar Tripathi"
+   },
+   {
+    "code": "NCS4302",
+    "name": "Data Structure using ‘C’",
+    "f": "Ms. Sweety Pal"
+   },
+   {
+    "code": "NCS4303",
+    "name": "Digital Logic Design",
+    "f": "Mr. Vivek Singh"
+   },
+   {
+    "code": "NAI4302",
+    "name": "Artificial Intelligence in Mechanical Engineering Systems",
+    "f": "Mr. Manoj Soni"
+   },
+   {
+    "code": "NCC5351",
+    "name": "Yoga Activities",
+    "f": "Ms. Veena Dwivedi"
+   },
+   {
+    "code": "NCS4352",
+    "name": "Data Structure Lab",
+    "f": "Ms. Sweety Pal"
+   },
+   {
+    "code": "NCS4353",
+    "name": "Digital Logic Design Lab",
+    "f": "Ms. Poonam Verma"
+   },
+   {
+    "code": "NGP4301",
+    "name": "General Proficiency",
+    "f": "Mr. Gaurav Singh"
+   },
+   {
+    "code": "LIB",
+    "name": "Library",
+    "f": ""
+   }
+  ]
+ },
+ "CSE(AI)2H": {
+  "slots": {
+   "Mon": [
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure using ‘C’",
+     "f": "Ms. Sweety Pal",
+     "r": "417"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Ms. Pratibha Pandey",
+     "r": "417"
+    },
+    {
+     "k": "YOGA",
+     "t": "P",
+     "s": "Yoga Activities",
+     "f": "Ms. Veena Dwivedi",
+     "r": "CONFERENCE HALL"
+    },
+    {
+     "k": "YOGA",
+     "t": "P",
+     "s": "Yoga Activities",
+     "f": "Ms. Veena Dwivedi",
+     "r": "CONFERENCE HALL"
+    },
+    null,
+    {
+     "k": "DLD",
+     "t": "P",
+     "s": "Digital Logic Design Lab",
+     "f": "Ms. Preeti Srivastava",
+     "r": "LGF01"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Analysis and Integral Transforms",
+     "f": "Ms. Aimen Abedi",
+     "r": "417"
+    },
+    {
+     "k": "IS",
+     "t": "L",
+     "s": "Industrial Sociology",
+     "f": "Dr. Pooja Verma",
+     "r": "417"
+    }
+   ],
+   "Tue": [
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Analysis and Integral Transforms",
+     "f": "Ms. Aimen Abedi",
+     "r": "417"
+    },
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure using ‘C’",
+     "f": "Ms. Sweety Pal",
+     "r": "417"
+    },
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Mr. Vivek Singh",
+     "r": "417"
+    },
+    {
+     "k": "AIMES",
+     "t": "L",
+     "s": "Artificial Intelligence in Mechanical Engineering Systems",
+     "f": "Mr. Manoj Soni",
+     "r": "417"
+    },
+    null,
+    {
+     "k": "DLD",
+     "t": "P",
+     "s": "Digital Logic Design Lab",
+     "f": "Ms. Preeti Srivastava",
+     "r": "LGF01"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Ms. Pratibha Pandey",
+     "r": "417"
+    },
+    {
+     "k": "LIB"
+    }
+   ],
+   "Wed": [
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Analysis and Integral Transforms",
+     "f": "Ms. Aimen Abedi",
+     "r": "417"
+    },
+    {
+     "k": "AIMES",
+     "t": "L",
+     "s": "Artificial Intelligence in Mechanical Engineering Systems",
+     "f": "Mr. Manoj Soni",
+     "r": "417"
+    },
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure using ‘C’",
+     "f": "Ms. Sweety Pal",
+     "r": "417"
+    },
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Mr. Vivek Singh",
+     "r": "417"
+    },
+    null,
+    null,
+    null,
+    null
+   ],
+   "Thu": [
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Mr. Vivek Singh",
+     "r": "417"
+    },
+    {
+     "k": "IS",
+     "t": "L",
+     "s": "Industrial Sociology",
+     "f": "Dr. Pooja Verma",
+     "r": "417"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Analysis and Integral Transforms",
+     "f": "Ms. Aimen Abedi",
+     "r": "417"
+    },
+    {
+     "k": "AIMES",
+     "t": "L",
+     "s": "Artificial Intelligence in Mechanical Engineering Systems",
+     "f": "Mr. Manoj Soni",
+     "r": "417"
+    },
+    null,
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Ms. Pratibha Pandey",
+     "r": "417"
+    },
+    null,
+    null
+   ],
+   "Fri": [
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Ms. Pratibha Pandey",
+     "r": "417"
+    },
+    {
+     "k": "AIMES",
+     "t": "L",
+     "s": "Artificial Intelligence in Mechanical Engineering Systems",
+     "f": "Mr. Manoj Soni",
+     "r": "417"
+    },
+    {
+     "k": "DS",
+     "t": "P",
+     "s": "Data Structure Lab",
+     "f": "Ms. Sweety Pal",
+     "r": "Lab-2"
+    },
+    {
+     "k": "DS",
+     "t": "P",
+     "s": "Data Structure Lab",
+     "f": "Ms. Sweety Pal",
+     "r": "Lab-2"
+    },
+    null,
+    {
+     "k": "DSUC",
+     "t": "L",
+     "s": "Data Structure using ‘C’",
+     "f": "Ms. Sweety Pal",
+     "r": "417"
+    },
+    {
+     "k": "DLD",
+     "t": "L",
+     "s": "Digital Logic Design",
+     "f": "Mr. Vivek Singh",
+     "r": "417"
+    },
+    null
+   ]
+  },
+  "courses": [
+   {
+    "code": "NHS4302",
+    "name": "Industrial Sociology",
+    "f": "Dr. Pooja Verma"
+   },
+   {
+    "code": "NBS4301",
+    "name": "Computerlex Analysis and Integral Transforms",
+    "f": "Ms. Aimen Abedi"
+   },
+   {
+    "code": "NCS4301",
+    "name": "Discrete Mathematics",
+    "f": "Ms. Pratibha Pandey"
+   },
+   {
+    "code": "NCS4302",
+    "name": "Data Structure using ‘C’",
+    "f": "Ms. Sweety Pal"
+   },
+   {
+    "code": "NCS4303",
+    "name": "Digital Logic Design",
+    "f": "Mr. Vivek Singh"
+   },
+   {
+    "code": "NAI4302",
+    "name": "Artificial Intelligence in Mechanical Engineering Systems",
+    "f": "Mr. Manoj Soni"
+   },
+   {
+    "code": "NCC5351",
+    "name": "Yoga Activities",
+    "f": "Ms. Veena Dwivedi"
+   },
+   {
+    "code": "NCS4352",
+    "name": "Data Structure Lab",
+    "f": "Ms. Sweety Pal"
+   },
+   {
+    "code": "NCS4353",
+    "name": "Digital Logic Design Lab",
+    "f": "Ms. Preeti Srivastava"
+   },
+   {
+    "code": "NGP4301",
+    "name": "General Proficiency",
+    "f": "Ms. Awantika"
+   },
+   {
+    "code": "LIB",
+    "name": "Library",
+    "f": ""
+   }
+  ]
+ },
+ "CSE(CCML)2A": {
+  "slots": {
+   "Mon": [
+    {
+     "k": "OS",
+     "t": "L",
+     "s": "Operating Systems",
+     "f": "Mr. Sachin Bhardwaj",
+     "r": "418"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Mr. Neeraj Baishwar",
+     "r": "418"
+    },
+    {
+     "k": "CP",
+     "t": "L",
+     "s": "C Programming",
+     "f": "Mr. Abhishek Yadav",
+     "r": "418"
+    },
+    {
+     "k": "FDS",
+     "t": "L",
+     "s": "Fundamentals of Data Science",
+     "f": "Mr. Ayushman Bhadoria",
+     "r": "418"
+    },
+    null,
+    null,
+    null,
+    null
+   ],
+   "Tue": [
+    {
+     "k": "CP",
+     "t": "L",
+     "s": "C Programming",
+     "f": "Mr. Abhishek Yadav",
+     "r": "418"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Mr. Neeraj Baishwar",
+     "r": "418"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Analysis and Integral Transforms",
+     "f": "Dr. Priyanka Singh",
+     "r": "418"
+    },
+    {
+     "k": "FDS",
+     "t": "L",
+     "s": "Fundamentals of Data Science",
+     "f": "Mr. Ayushman Bhadoria",
+     "r": "418"
+    },
+    null,
+    {
+     "k": "OS",
+     "t": "L",
+     "s": "Operating Systems",
+     "f": "Mr. Sachin Bhardwaj",
+     "r": "418"
+    },
+    {
+     "k": "LIB"
+    },
+    null
+   ],
+   "Wed": [
+    {
+     "k": "YOGA",
+     "t": "P",
+     "s": "Yoga Activities",
+     "f": "Ms. Veena Dwivedi",
+     "r": "C.H."
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Analysis and Integral Transforms",
+     "f": "Dr. Priyanka Singh",
+     "r": "418"
+    },
+    {
+     "k": "CP",
+     "t": "P",
+     "s": "C Programming Lab",
+     "f": "Mr. Abhishek Yadav",
+     "r": "Lab-3"
+    },
+    {
+     "k": "CP",
+     "t": "P",
+     "s": "C Programming Lab",
+     "f": "Mr. Abhishek Yadav",
+     "r": "Lab-3"
+    },
+    null,
+    {
+     "k": "CP",
+     "t": "L",
+     "s": "C Programming",
+     "f": "Mr. Abhishek Yadav",
+     "r": "418"
+    },
+    {
+     "k": "OS",
+     "t": "L",
+     "s": "Operating Systems",
+     "f": "Mr. Sachin Bhardwaj",
+     "r": "418"
+    },
+    null
+   ],
+   "Thu": [
+    {
+     "k": "YOGA",
+     "t": "P",
+     "s": "Yoga Activities",
+     "f": "Ms. Veena Dwivedi",
+     "r": "C.H."
+    },
+    {
+     "k": "CP",
+     "t": "L",
+     "s": "C Programming",
+     "f": "Mr. Abhishek Yadav",
+     "r": "418"
+    },
+    {
+     "k": "FDS",
+     "t": "L",
+     "s": "Fundamentals of Data Science",
+     "f": "Mr. Ayushman Bhadoria",
+     "r": "418"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Analysis and Integral Transforms",
+     "f": "Dr. Priyanka Singh",
+     "r": "418"
+    },
+    null,
+    {
+     "k": "IS",
+     "t": "L",
+     "s": "Industrial Sociology",
+     "f": "Dr. Anshubhi Bahadur",
+     "r": "UGF12"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Mr. Neeraj Baishwar",
+     "r": "418"
+    },
+    null
+   ],
+   "Fri": [
+    {
+     "k": "DS",
+     "t": "P",
+     "s": "Data Science Lab",
+     "f": "Mr. Ayushman Bhadoria",
+     "r": ""
+    },
+    {
+     "k": "/Lab-3",
+     "s": "/Lab-3",
+     "f": "",
+     "r": "",
+     "t": ""
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Analysis and Integral Transforms",
+     "f": "Dr. Priyanka Singh",
+     "r": "418"
+    },
+    {
+     "k": "IS",
+     "t": "L",
+     "s": "Industrial Sociology",
+     "f": "Dr. Anshubhi Bahadur",
+     "r": "418"
+    },
+    null,
+    {
+     "k": "OS",
+     "t": "L",
+     "s": "Operating Systems",
+     "f": "Mr. Sachin Bhardwaj",
+     "r": "418"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Mr. Neeraj Baishwar",
+     "r": "418"
+    },
+    null
+   ]
+  },
+  "courses": [
+   {
+    "code": "NHS4302",
+    "name": "Industrial Sociology",
+    "f": "Dr. Anshubhi Bahadur"
+   },
+   {
+    "code": "NBS4301",
+    "name": "Computerlex Analysis and Integral Transforms",
+    "f": "Dr. Priyanka Singh"
+   },
+   {
+    "code": "NCS4301",
+    "name": "Discrete Mathematics",
+    "f": "Mr. Neeraj Baishwar"
+   },
+   {
+    "code": "NCCML4301",
+    "name": "Fundamentals of Data Science",
+    "f": "Mr. Ayushman Bhadoria"
+   },
+   {
+    "code": "NCCML4302",
+    "name": "Operating Systems",
+    "f": "Mr. Sachin Bhardwaj"
+   },
+   {
+    "code": "NCS4305",
+    "name": "C Programming",
+    "f": "Mr. Abhishek Yadav"
+   },
+   {
+    "code": "NCC5351",
+    "name": "Yoga Activities",
+    "f": "Ms. Veena Dwivedi"
+   },
+   {
+    "code": "NCCML4351",
+    "name": "Data Science Lab",
+    "f": "Mr. Ayushman Bhadoria"
+   },
+   {
+    "code": "NCS4355",
+    "name": "C Programming Lab",
+    "f": "Mr. Abhishek Yadav"
+   },
+   {
+    "code": "NGP4301",
+    "name": "General Proficiency",
+    "f": "Mrs. Mala Chaturvedi"
+   },
+   {
+    "code": "LIB",
+    "name": "Library",
+    "f": ""
+   }
+  ]
+ },
+ "CSE(IOTBC)2A": {
+  "slots": {
+   "Mon": [
+    {
+     "k": "IOT",
+     "t": "L",
+     "s": "Internet of Things Application Development",
+     "f": "Mr. Vikas",
+     "r": "410"
+    },
+    {
+     "k": "IS",
+     "t": "L",
+     "s": "Industrial Sociology",
+     "f": "Dr. Pooja Verma",
+     "r": "410"
+    },
+    {
+     "k": "OS",
+     "t": "L",
+     "s": "Operating Systems",
+     "f": "Mr. Sachin Bhardwaj",
+     "r": "410"
+    },
+    {
+     "k": "CP",
+     "t": "L",
+     "s": "C Programming",
+     "f": "Mr. Abhishek Yadav",
+     "r": "410"
+    },
+    null,
+    {
+     "k": "IOT",
+     "t": "P",
+     "s": "Internet of Things Lab",
+     "f": "Mr.Vikas",
+     "r": "Lab-4"
+    },
+    {
+     "k": "IOT",
+     "t": "P",
+     "s": "Internet of Things Lab",
+     "f": "Mr.Vikas",
+     "r": "Lab-4"
+    },
+    {
+     "k": "IOT",
+     "t": "P",
+     "s": "Internet of Things Lab",
+     "f": "Mr.Vikas",
+     "r": "Lab-4"
+    }
+   ],
+   "Tue": [
+    {
+     "k": "OS",
+     "t": "L",
+     "s": "Operating Systems",
+     "f": "Mr. Sachin Bhardwaj",
+     "r": "410"
+    },
+    {
+     "k": "IOT",
+     "t": "L",
+     "s": "Internet of Things Application Development",
+     "f": "Mr. Vikas",
+     "r": "410"
+    },
+    {
+     "k": "CP",
+     "t": "L",
+     "s": "C Programming",
+     "f": "Mr. Abhishek Yadav",
+     "r": "410"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Mr. Neeraj Baishwar",
+     "r": "410"
+    },
+    null,
+    {
+     "k": "IS",
+     "t": "L",
+     "s": "Industrial Sociology",
+     "f": "Dr. Pooja Verma",
+     "r": "410"
+    },
+    null,
+    null
+   ],
+   "Wed": [
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Analysis and Integral Transforms",
+     "f": "Dr. Shikha Yadav",
+     "r": "410"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Mr. Neeraj Baishwar",
+     "r": "410"
+    },
+    {
+     "k": "IOT",
+     "t": "L",
+     "s": "Internet of Things Application Development",
+     "f": "Mr. Vikas",
+     "r": "410"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Analysis and Integral Transforms",
+     "f": "Dr. Shikha Yadav",
+     "r": "410"
+    },
+    null,
+    {
+     "k": "OS",
+     "t": "L",
+     "s": "Operating Systems",
+     "f": "Mr. Sachin Bhardwaj",
+     "r": "410"
+    },
+    {
+     "k": "CP",
+     "t": "L",
+     "s": "C Programming",
+     "f": "Mr. Abhishek Yadav",
+     "r": "410"
+    },
+    null
+   ],
+   "Thu": [
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Analysis and Integral Transforms",
+     "f": "Dr. Shikha Yadav",
+     "r": "410"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Mr. Neeraj Baishwar",
+     "r": "410"
+    },
+    {
+     "k": "YOGA",
+     "t": "P",
+     "s": "Yoga Activities",
+     "f": "Ms. Veena Dwivedi",
+     "r": "CONFERENCE HALL"
+    },
+    {
+     "k": "YOGA",
+     "t": "P",
+     "s": "Yoga Activities",
+     "f": "Ms. Veena Dwivedi",
+     "r": "CONFERENCE HALL"
+    },
+    null,
+    {
+     "k": "CP",
+     "t": "P",
+     "s": "C Programming Lab",
+     "f": "Mr. Abhishek Yadav",
+     "r": "Lab-4"
+    },
+    {
+     "k": "CP",
+     "t": "P",
+     "s": "C Programming Lab",
+     "f": "Mr. Abhishek Yadav",
+     "r": "Lab-4"
+    },
+    {
+     "k": "OS",
+     "t": "L",
+     "s": "Operating Systems",
+     "f": "Mr. Sachin Bhardwaj",
+     "r": "410"
+    }
+   ],
+   "Fri": [
+    {
+     "k": "CP",
+     "t": "L",
+     "s": "C Programming",
+     "f": "Mr. Abhishek Yadav",
+     "r": "410"
+    },
+    {
+     "k": "CAIT",
+     "t": "L",
+     "s": "Computerlex Analysis and Integral Transforms",
+     "f": "Dr. Shikha Yadav",
+     "r": "410"
+    },
+    {
+     "k": "DM",
+     "t": "L",
+     "s": "Discrete Mathematics",
+     "f": "Mr. Neeraj Baishwar",
+     "r": "410"
+    },
+    {
+     "k": "LIB"
+    },
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  "courses": [
+   {
+    "code": "NHS4302",
+    "name": "Industrial Sociology",
+    "f": "Dr. Pooja Verma"
+   },
+   {
+    "code": "NBS4301",
+    "name": "Computerlex Analysis and Integral Transforms",
+    "f": "Dr. Shikha Yadav"
+   },
+   {
+    "code": "NCS4301",
+    "name": "Discrete Mathematics",
+    "f": "Mr. Neeraj Baishwar"
+   },
+   {
+    "code": "NITBC4301",
+    "name": "Internet of Things Application Development",
+    "f": "Mr. Vikas"
+   },
+   {
+    "code": "NCCML4302",
+    "name": "Operating Systems",
+    "f": "Mr. Sachin Bhardwaj"
+   },
+   {
+    "code": "NCS4305",
+    "name": "C Programming",
+    "f": "Mr. Abhishek Yadav"
+   },
+   {
+    "code": "NCC5351",
+    "name": "Yoga Activities",
+    "f": "Ms. Veena Dwivedi"
+   },
+   {
+    "code": "NITBC4351",
+    "name": "Internet of Things Lab",
+    "f": "Mr.Vikas"
+   },
+   {
+    "code": "NCS4355",
+    "name": "C Programming Lab",
+    "f": "Mr. Abhishek Yadav"
+   },
+   {
+    "code": "NGP4301",
+    "name": "General Proficiency",
+    "f": "Ms. Arti Singh"
+   },
+   {
+    "code": "LIB",
+    "name": "Library",
+    "f": ""
+   }
+  ]
+ }
+}
