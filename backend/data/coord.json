@@ -1,0 +1,267 @@
+{
+ "CS2A": {
+  "sec": "CS2A",
+  "name": "Mr. Anand Kumar Pandey",
+  "mob": "6306561248"
+ },
+ "CS2B": {
+  "sec": "CS2B",
+  "name": "Mr. Peeyush Kumar Shukla",
+  "mob": "8400257710"
+ },
+ "CS2C": {
+  "sec": "CS2C",
+  "name": "Mr. Neeraj Baishwar",
+  "mob": "9616053249"
+ },
+ "CS2D": {
+  "sec": "CS2D",
+  "name": "Mr. Amit Kumar Singh",
+  "mob": "7376250500"
+ },
+ "CS2E": {
+  "sec": "CS2E",
+  "name": "Ms. Sweety Pal",
+  "mob": "8707464434"
+ },
+ "CS2F": {
+  "sec": "CS2F",
+  "name": "Mr. Naseem Ahmad Khan",
+  "mob": "9716637696"
+ },
+ "CSEAI2A": {
+  "sec": "CSE(AI)2A",
+  "name": "Mr. Ravi Shankar Yadav",
+  "mob": "9807545832"
+ },
+ "CSEAI2B": {
+  "sec": "CSE(AI)2B",
+  "name": "Ms. Jyoti Yadav",
+  "mob": "9793793897"
+ },
+ "CSEAI2C": {
+  "sec": "CSE(AI)2C",
+  "name": "Mr. Shailesh Kumar Vishwakarma",
+  "mob": "9559604636"
+ },
+ "CSEAI2D": {
+  "sec": "CSE(AI)2D",
+  "name": "Ms. Sapna Pal",
+  "mob": "9452463397"
+ },
+ "CSEAI2E": {
+  "sec": "CSE(AI)2E",
+  "name": "Mr. Vivek Kumar Singh",
+  "mob": "9643141501"
+ },
+ "CSEAI2F": {
+  "sec": "CSE(AI)2F",
+  "name": "Mr. Gaurav Singh",
+  "mob": "9005361150"
+ },
+ "CSEAI2G": {
+  "sec": "CSE(AI)2G",
+  "name": "Ms. Surabhi Mishra",
+  "mob": "9335052171"
+ },
+ "CSECCML2A": {
+  "sec": "CSE(CCML)2A",
+  "name": "Ms. Hima Saxena",
+  "mob": "9759804554"
+ },
+ "CSEAIBC2A": {
+  "sec": "CSE(AIBC)2A",
+  "name": "Ms. Sweety",
+  "mob": "8756395823"
+ },
+ "CS3A": {
+  "sec": "CS3A",
+  "name": "Dr. Ramesh Vaishya",
+  "mob": "9451173020"
+ },
+ "CS3B": {
+  "sec": "CS3B",
+  "name": "Dr. Mohd. Ahmer",
+  "mob": "8765686839"
+ },
+ "CS3C": {
+  "sec": "CS3C",
+  "name": "Ms. Sumaiya Rehan",
+  "mob": "8932869278"
+ },
+ "CS3D": {
+  "sec": "CS3D",
+  "name": "Dr. Priya Kumari",
+  "mob": "7007095972"
+ },
+ "CS3E": {
+  "sec": "CS3E",
+  "name": "Dr. Mrinalini Srivastava",
+  "mob": "9628649407"
+ },
+ "CS3F": {
+  "sec": "CS3F",
+  "name": "Ms. Preeti Srivastava",
+  "mob": "9971290428"
+ },
+ "CS3G": {
+  "sec": "CS3G",
+  "name": "Mr. Ritesh Kumar",
+  "mob": "8303584980"
+ },
+ "CS3H": {
+  "sec": "CS3H",
+  "name": "Ms. Shailja Chaurasiya",
+  "mob": "9369321406"
+ },
+ "CSEAI3A": {
+  "sec": "CSE(AI)3A",
+  "name": "Ms. Kratika Chandra",
+  "mob": "9235261516"
+ },
+ "CSEAI3B": {
+  "sec": "CSE(AI)3B",
+  "name": "Ms. Vaishnavi Yadav",
+  "mob": "9027843523"
+ },
+ "CSEAI3C": {
+  "sec": "CSE(AI)3C",
+  "name": "Ms. Anshu Khare",
+  "mob": "9889099364"
+ },
+ "CSEAI3D": {
+  "sec": "CSE(AI)3D",
+  "name": "Ms. Yadav Pratima Kedarnath",
+  "mob": "7709305884"
+ },
+ "CSEAI3E": {
+  "sec": "CSE(AI)3E",
+  "name": "Mr. Saurabh Pandey",
+  "mob": "9198539233"
+ },
+ "CSEAI3F": {
+  "sec": "CSE(AI)3F",
+  "name": "Mr. Satish Kumar Singh",
+  "mob": "7703047777"
+ },
+ "CSEAI3G": {
+  "sec": "CSE(AI)3G",
+  "name": "Ms. Shubhranjali Nigam",
+  "mob": "9651281359"
+ },
+ "CSEAI3H": {
+  "sec": "CSE(AI)3H",
+  "name": "Mr. Rakesh Sharma",
+  "mob": "9453697484"
+ },
+ "CSECCML3A": {
+  "sec": "CSE(CCML)3A",
+  "name": "Ms. Akanksha Shukla",
+  "mob": "6386351883"
+ },
+ "CSEIOTBC3A": {
+  "sec": "CSE(IOTBC)3A",
+  "name": "Ms. Awantika",
+  "mob": "8299668742"
+ },
+ "CS4A": {
+  "sec": "CS4A",
+  "name": "Dr. Dhyan Chandra Yadav",
+  "mob": "8318256815"
+ },
+ "CS4B": {
+  "sec": "CS4B",
+  "name": "Ms. Archana Kumari",
+  "mob": "7497056805"
+ },
+ "CS4C": {
+  "sec": "CS4C",
+  "name": "Mr. Gaurav Kumar Srivastava",
+  "mob": "8445163531"
+ },
+ "CS4D": {
+  "sec": "CS4D",
+  "name": "Mrs. Deepti Razdan",
+  "mob": "8960141662"
+ },
+ "CS4E": {
+  "sec": "CS4E",
+  "name": "Mr. Tushar Giri",
+  "mob": "9598279673"
+ },
+ "CS4F": {
+  "sec": "CS4F",
+  "name": "Mrs. Mala Chaturvedi",
+  "mob": "7376252282"
+ },
+ "CS4G": {
+  "sec": "CS4G",
+  "name": "Ms. Divya Agrahari",
+  "mob": "6394771035"
+ },
+ "CS4H": {
+  "sec": "CS4H",
+  "name": "Mr. Avinash Pandey",
+  "mob": "9554189900"
+ },
+ "CS4I": {
+  "sec": "CS4I",
+  "name": "Ms. Shraddha Tiwari",
+  "mob": "8931947564"
+ },
+ "CS4J": {
+  "sec": "CS4J",
+  "name": "Ms. Arti Singh",
+  "mob": "6386581858"
+ },
+ "CS4K": {
+  "sec": "CS4K",
+  "name": "Ms. Shalini Verma",
+  "mob": "7905357382"
+ },
+ "CS4L": {
+  "sec": "CS4L",
+  "name": "Mr. Sachin Bhardwaj",
+  "mob": "7985242673"
+ },
+ "CSEAI4A": {
+  "sec": "CSE(AI)4A",
+  "name": "Mr. Prabhdeep Singh",
+  "mob": "8840602502"
+ },
+ "CSEAI4B": {
+  "sec": "CSE(AI)4B",
+  "name": "Mr. Anil Kumar",
+  "mob": "9415718668"
+ },
+ "CSEAI4C": {
+  "sec": "CSE(AI)4C",
+  "name": "Mr. Yogendra Kumar Tripathi",
+  "mob": "9450968572"
+ },
+ "CSEAI4D": {
+  "sec": "CSE(AI)4D",
+  "name": "Mr. Abhishek Yadav",
+  "mob": "9415180155"
+ },
+ "CSEAI4E": {
+  "sec": "CSE(AI)4E",
+  "name": "Ms. Pooja Tiwari",
+  "mob": "8299552878"
+ },
+ "CSEAI4F": {
+  "sec": "CSE(AI)4F",
+  "name": "Mr. Ahmad Raza",
+  "mob": "9867597554"
+ },
+ "CSEIOTBC4A": {
+  "sec": "CSE(IOTBC)4A",
+  "name": "Dr. Rajan Prasad",
+  "mob": "8808833451"
+ },
+ "CSECCML4A": {
+  "sec": "CSE(CCML)4A",
+  "name": "Ms. Nargis Siddiqui",
+  "mob": "8303775371"
+ }
+}
