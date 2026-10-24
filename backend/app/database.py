@@ -24,7 +24,6 @@ def _connect():
     DB_PATH.parent.mkdir(parents=True, exist_ok=True)
     c = sqlite3.connect(DB_PATH, timeout=15)
     c.row_factory = sqlite3.Row
-    c.execute("pragma journal_mode=wal")
     return c
 
 

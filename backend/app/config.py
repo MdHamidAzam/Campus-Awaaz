@@ -14,7 +14,12 @@ if load_dotenv: load_dotenv(BACKEND_DIR / ".env")
 FRONTEND_DIR = Path(os.getenv("FRONTEND_DIR", BACKEND_DIR.parent / "frontend"))
 DATA_DIR = BACKEND_DIR / "data"
 DOCS_DIR = BACKEND_DIR / "docs"
-DB_PATH = Path(os.getenv("DATABASE_PATH", BACKEND_DIR / "storage" / "campus.db"))   # <- all user data lives in this one file
+if os.getenv("VERCEL") == "1":
+    DB_PATH = Path("/tmp/campus.db")
+else:
+    DB_PATH = Path(
+        os.getenv("DATABASE_PATH", str(BACKEND_DIR / "storage" / "campus.db"))
+    )   # <- all user data lives in this one file
 
 IST = timezone(timedelta(hours=5, minutes=30))
 DAYS = ["Mon", "Tue", "Wed", "Thu", "Fri"]
