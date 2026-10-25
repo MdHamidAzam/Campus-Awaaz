@@ -59,3 +59,5 @@ Class reminder kitne minute pehle jaye: `CLASS_REMINDER_MINUTES` (default 10, 0 
 ## Voice setup (ElevenLabs)
 Create a key at https://elevenlabs.io/app/settings/api-keys and paste it in `backend/.env` as `ELEVENLABS_API_KEY=...`, then restart the backend.
 In the assistant, pick "I speak: English / हिंदी" for the most accurate transcription. The assistant always speaks its replies aloud (Stop button next to it).
+
+## Vercel Deployement Link: https://campus-awaaz-73cp61x9t-mdhamidazams-projects.vercel.app/
