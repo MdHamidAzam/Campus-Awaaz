@@ -516,6 +516,10 @@ For major changes, open an issue first to discuss the proposed implementation.
 
 ---
 
+## Contributor
+Mohammad Aashique
+Shivangi Mourya
+
 ## 📄 License
 
 MIT License
