@@ -517,8 +517,8 @@ For major changes, open an issue first to discuss the proposed implementation.
 ---
 
 ## Contributor
-2. https://github.com/aashiquem053
-1. https://github.com/kshivvi009
+1. https://github.com/aashiquem053
+2. https://github.com/kshivvi009
 
 ## 📄 License
 
